@@ -1,7 +1,7 @@
 # Ownership Income as a Mitigation of AI Wage Disruption
 
-**Status:** Working outline. Not a draft. No findings are established yet. The author's overarching thesis was recorded on 2026-10-20 and governs the architecture the paper examines.
-**Threads filed:** 17 (through Claude Opus on the five-layer thesis). Logged and annotated on 2026-10-20. Not merged into the author's thesis.
+**Status:** Working outline. Not a draft. No findings are established yet. The author's overarching thesis was recorded on 2026-10-20. On the same day the author limited this paper to the employee-ownership layer: business-structured claims on the firm, set inside that larger architecture.
+**Threads filed:** 26 (through GPT Sol on the employee-ownership paper). Logged and annotated on 2026-10-20. Not merged into the outline.
 **Document role:** Spine for a publishable research paper. Later brainstorming threads from other models get filed into the intake log at the end and then sorted into these sections. Threads are source material, not citations.
 **Intended form:** A long policy research paper (about 8,000–12,000 words) written so that an economist, a policy analyst, and a general reader can each audit it. The paper argues from an accounting framework and a structured policy comparison. It does not present itself as a new causal estimate or a new growth model unless later work actually produces one.
 **Date opened:** 2026-10-20
@@ -10,17 +10,13 @@
 
 ## Working title
 
-**Who Owns the Machine: Ownership Income, Wage Disruption, and the Limits of Transfers in an AI Economy**
+**Employee Ownership Income: Forms, Trade-offs, and Its Place in an AI Economy**
 
-Alternatives, if the argument tightens later:
-
-- From Wages to Claims: Broad Ownership as a Response to AI-Driven Labor-Share Decline
-- Predistribution after Automation: A Mechanism Taxonomy of Ownership Income
-- The Income Floor and the Capital Claim: Ownership Policy beside Universal Basic Income
+The earlier title, *Who Owns the Machine*, names the larger project. This paper is the employee-ownership piece of that project.
 
 ## One-paragraph contribution
 
-Automation and AI can raise aggregate income while shifting that income from wages toward returns on capital. Households feel that shift as wage disruption only if they do not hold the claims on the capital that gained. This paper asks when broadening those claims — ownership income — actually leaves people better off, which mechanisms can broaden them, and how those mechanisms compare with an income floor such as universal basic income. The contribution is a taxonomy of ownership mechanisms, an explicit statement of the conditions under which they replace lost wages, and an equal-cost comparison with UBI and neighboring labor-market policies. The paper treats ownership income as a response to a change in who holds claims, and treats cash transfers as a response to liquidity and a consumption floor. Those are different problems. The target design is the five-layer architecture in the author's thesis below.
+This paper asks how employee ownership income can be widened now, through the way firms are structured, and what that layer can and cannot do as AI shifts income from wages toward capital. It compares the forms — employee stock ownership plans, worker cooperatives, employee ownership trusts, broad-based equity, profit sharing, and revenue sharing — on what the employee actually holds, who is included, when cash arrives, and what risk sits with the job. The return comes from the company's earnings and the employee's claim on that company. Public policy can make those structures easier for businesses to adopt. It is not the source of the income. The five-layer floor in the thesis below is the setting. This paper does not design the funds or the universal basic income. It places employee ownership inside that future and says what policymakers can do today.
 
 ## Author's overarching thesis
 
@@ -49,6 +45,24 @@ Together these layers are the floor. No citizen falls beneath the baseline they 
 - That employee ownership is an addition to the floor for people who have the job, and that the other layers meet the floor for people who do not.
 - How a household's income moves when profits, wages, and local asset prices fall in the same year. The automatic necessity layer has to keep paying in that year. A dividend that shrinks with the market does not, unless a backstop is specified and its cost is counted.
 - How the books stay public, and how a person can see and correct a payment, while ordinary necessities stay automatic.
+
+## This paper's scope
+
+Settled by the author on 2026-10-20. The five-layer architecture is the puzzle. This paper is only the employee-ownership piece, and how that piece relates to the rest.
+
+**Where the income comes from.** Employee ownership income is a capitalistic arrangement inside the firm. It is produced by the employee's work and by how that company is owned: a claim on equity, on surplus, or on a defined share of revenue or profit. It is not a check from the government. Federal, state, and community funds, and the universal basic income, are other layers. They are context here. They are not this paper's design problem.
+
+**What government can do.** Policy can help businesses adopt these structures: tax treatment, succession rules, financing for worker buyouts, technical assistance, and rules that keep a plan broad-based. Those are enabling conditions. A tax incentive has a public cost, and the paper will say so. The income the employee receives still comes from the firm.
+
+**What the paper discusses.**
+
+1. **How ownership income is promoted.** The channels through which more employees come to hold a claim: owner succession, new plans at existing firms, cooperatives, trusts, and broad equity grants. Businesses are the actors. Policy is the help.
+2. **The forms, compared on the same questions.** Employee stock ownership plans. Worker cooperatives. Employee ownership trusts. Broad-based equity: grants, options, and purchase plans. Profit sharing. Revenue sharing. For each: what the employee holds, whether the claim survives the job, who is eligible inside the firm, when cash can be spent, who bears the firm's risk, and what the evidence actually shows.
+3. **Trade-offs.** A claim on the employing firm ties wealth to the same place as the wage, so a failure can hit both at once. A share of revenue or profit can pay cash sooner and still end when employment ends, with no residual stake. Cooperatives add a voice in governance and are harder to scale. Equity plans can build wealth and can be illiquid until retirement. Plans that cover only some workers, or only firms that choose them, leave everyone else out. The paper states these as the costs of a business-driven layer, and it says which form buys which benefit.
+4. **What policymakers can do today.** Steps that use current law and current institutions in the United States. No new federal fund is required for this layer.
+5. **The place in the AI future.** Employee ownership is the layer that can be widened before the other four exist. It gives people inside participating firms a claim on the earnings of those firms. It does not cover people without that job, and it does not guarantee the floor when the firm or the market falls. The other layers exist in the architecture to do that work. This paper's last job is to say that clearly, so employee ownership is not asked to be the whole system.
+
+Profit sharing and revenue sharing are in the comparison because the author named them. The paper keeps one line straight: a payment that ends with the job and carries no claim on the firm is shared compensation. A claim that is ownership income is a residual stake in the company. Both can raise what the employee receives. They are not the same instrument.
 
 ## Positioning against work already in the debate
 
@@ -516,8 +530,8 @@ Apply these when threads are merged into prose.
 3. **Length and venue.** A journal-length article forces a narrower contribution (taxonomy plus equal-cost comparison). A policy-institute paper can carry the full structure above. Recommend: write the full structure, and be willing to cut sections 4 and 10 down if a journal version is needed.
 4. **Formal model.** Default is no new model. Add one only if dilution-versus-tax incidence cannot be argued clearly in prose.
 5. **Normative commitment.** Settled by the author's thesis on 2026-10-20: a place-sensitive floor — federal, state, and community funds, plus universal basic income and automatic credits and subsidies — such that necessities are met and no citizen falls below it, with employee ownership as the layer that can be widened now. The comparative results should also be readable by someone who does not share that aim: same facts, different weights.
-6. **One paper or a series.** Unsettled. Thread 11 recommends a foundational paper on the five-layer architecture, then a first mechanism paper on employee ownership, then later papers on funds, dividends, equalization, and automatic delivery. The file is still organized as one paper. The author decides which publication comes first.
-7. **How to cost the floor.** Unsettled. Thread 15 recommends one baseline basket, with a cost, plus sensitivity ranges, rather than a menu of floors with no baseline. The author chooses the basket and whether a single baseline is published.
+6. **One paper or a series.** Settled by the author on 2026-10-20. This publication is the employee-ownership paper: forms, trade-offs, what policymakers can do now, and how the layer fits the larger architecture. The funds, the cash floor, and automatic delivery are later papers.
+7. **How to cost the floor.** Deferred. It belongs to a later paper on the floor. This paper costs employee-ownership claims against wages and wealth, not the national necessity basket.
 
 ---
 
@@ -4685,3 +4699,356 @@ My recommendation: don't retreat from the claim, **split it**. Argue for *invisi
 The highest-value next step is **Section 3, the portfolio model** — because it's what converts your thesis from a policy wish-list into an analytical framework, and everything downstream inherits its structure. Second priority is the employee-ownership chapter, since that's your actionable claim and the evidence base is strongest there.
 
 I can draft any of the following: the formal model with the layer-covariance derivation; the employee-ownership chapter; the abstract and introduction; or a deeper literature search on administrative burden and the submerged-state tension, which is where I think your most original contribution lies. Which would you like first?
+
+### Thread 18 — 2026-10-20 — ChatGPT, on the employee-ownership paper
+
+Source: Pasted by the user in this session. Favicon chips are not citations.
+Prompt given to the model: The narrowed scope. This paper is employee ownership only. The income comes from the firm. Government enables. The larger floor is context.
+Section tags: This paper's scope; forms; trade-offs; policy today; AI fit. The outline matches the scope. Two institutional facts were checked.
+Conflicts with this paper's scope:
+
+- None on the job of the paper. Businesses generate the income. Government enables, finances transitions, and regulates. Public and community funds, universal basic income, and essential services stay in the background.
+- Performance-linked pay is kept separate from ownership. Profit sharing, revenue sharing, and gainsharing are in the comparison and are not called ownership unless a residual claim is attached. That matches the scope section.
+
+Numbers or citations to verify before use:
+
+- **Checked — Department of Labor Employee Ownership Initiative.** Congress appropriated $2 million in February 2026, in the Consolidated Appropriations Act of 2026, for grants authorized by the WORK provisions of the SECURE 2.0 Act. The Department's page says to check back; a contemporaneous account says no grants had been awarded yet and the agency was still writing the program. Do not treat the appropriation as money that has reached businesses. The reply already says that.
+- **Checked, with a count that depends on the page.** The Department's state page, as read here, says at least eight states had state-funded employee-ownership initiatives as of December 2025, and names California. Its report to Congress for the same date says nine states and adds Washington. Use "at least eight, and nine in the report to Congress," and name the page. About half of states have a nonprofit center that is mostly not state-funded. Those centers are not the same thing.
+- **Shared capitalism and workplace practices.** The reply's caution matches the literature already in this file: financial participation is associated with better outcomes when it sits alongside participation, training, and other practices. No new coefficient is stated. None is cleared.
+
+Keep for a later merge, if the author wants it:
+
+- Three buckets, used throughout: ownership-based returns, performance-linked compensation, and hybrids. The comparison table at the end is the working taxonomy for this paper.
+- Cash today versus wealth later. An employee stock ownership plan balance can grow and still pay nothing this month.
+- Policy that uses institutions that exist: Labor, Treasury, the Small Business Administration, state centers, and the advisers who already handle business sales.
+- Each policy idea has to be tested for whether the employee is better off, or whether the subsidy mainly pays the seller, the lender, or the adviser.
+- Section 7 keeps the AI future as context and states the limits: people outside the firm, firms with nothing to distribute, and no replacement for social insurance.
+
+Discard:
+
+- The title and subtitle. Park them.
+- The offer to build an evidence matrix as a next step. It is a method, not a section.
+
+#### Raw reply
+
+Yes, that sharply clarifies the paper's purpose. The paper should focus on business-generated ownership income as a market-based mechanism for sharing the economic gains of productive enterprises, with government acting primarily as an enabler, facilitator, and regulator rather than the source of recurring income.
+
+There is already a substantial body of relevant research. The U.S. Department of Labor recognizes ESOPs, worker cooperatives, employee ownership trusts, and broad-based equity arrangements as forms of employee ownership. Research also finds that outcomes depend on how ownership is designed and whether it is supported by meaningful employee participation and good workplace practices.
+
+I would structure the paper around the following revised outline.
+
+# Proposed research paper
+
+# Sharing the Productive Upside: Employee Ownership as a Market-Based Response to AI-Driven Economic Change
+
+**Subtitle:** Ownership Models, Economic Trade-offs, Policy Enablers, and the Future Distribution of Productive Wealth
+
+**Research discipline:** Economics, labor economics, corporate governance, and public policy.
+
+**Geographic scope:** Primarily the United States, with selected international comparisons.
+
+## Central Thesis
+
+Employee ownership and related business-based income-sharing arrangements offer a potential market-based mechanism for broadening workers' participation in the financial returns generated by productive enterprises.
+
+As AI, robotics, and automation change the contribution of labor and capital to economic production, these arrangements may help workers participate in productivity gains through equity appreciation, profit distributions, cooperative surplus, and other performance-linked returns.
+
+The effectiveness of these mechanisms depends on their structure, the breadth and value of employee participation, business performance, financing arrangements, governance, and the distribution of risk.
+
+Public policy can support adoption by reducing transaction costs, improving access to financing and technical assistance, establishing appropriate legal and regulatory frameworks, and encouraging well-designed ownership transitions. The recurring income and potential wealth accumulation, however, are generated primarily by the participating businesses rather than by government transfers.
+
+The paper will examine the economic merits, limitations, and implementation requirements of different models, and assess how broader employee ownership might contribute to economic resilience in an AI-driven economy.
+
+The remainder of this reply is a ten-section outline: introduction; ownership versus performance pay versus hybrids; nine forms from ESOPs through succession; worker, firm, incentive, risk, and governance trade-offs; evidence and its limits; today's policy levers; the AI context and its limits; methods; findings and recommendations; conclusion and appendices. It closes with the two distinctions above and the Department of Labor facts checked in this entry.
+
+#### Raw reply
+
+The pasted outline is preserved in the conversation of 2026-10-20. Its structure is the one summarized in this entry: a United States paper, international comparisons only as illustrations, government as enabler, and the larger floor limited to a short context section. The two distinctions that govern later drafting are the ownership-versus-performance table and the rule that an appropriation is not evidence that grant money has reached a business.
+
+### Thread 19 — 2026-10-20 — Perplexity, on the employee-ownership paper
+
+Source: Pasted by the user in this session. Links point to the Department of Labor Employee Ownership Initiative, an NCEO comparison of forms, and a Rutgers-hosted article on cooperative productivity.
+Prompt given to the model: The same narrowed scope.
+Section tags: This paper's scope; forms; trade-offs; business adoption; AI scenarios; policy today. Matches the scope. Adds phantom equity and the owner's reason for choosing the structure.
+Conflicts with this paper's scope:
+
+- None on the boundary. A few paragraphs for the larger floor. The enterprise is the center. Government sets rules and does not pay the operating income.
+- Returns are described as the enterprise's combined result: work, capital, technology, management, and the market. They are not a measurement of one employee's personal output. That sentence belongs in the definitions.
+- The Rutgers-hosted productivity article is an institutional synthesis. It says participative worker-owned firms may show favorable productivity results and that ownership alone is not the proven cause. Use it as a pointer. Do not cite it as a causal estimate.
+
+Numbers or citations to verify before use:
+
+- **Department of Labor pages, checked in Thread 18.** ESOPs, worker cooperatives, and employee ownership trusts are the models the Department distinguishes. ESOPs are described there as retirement plans, with benefits generally at retirement or after leaving. Cooperative distributions follow patronage rules. Those institutional descriptions can be used. They are not outcome studies.
+- No new dollar figures.
+
+Keep for a later merge, if the author wants it:
+
+- Three rights, scored separately: ownership, income, and participation. An employee can have one without the others.
+- The comparison includes phantom equity and appreciation rights: a contract tied to value, not necessarily a share. Enforceability and liquidity are the questions.
+- Eight trade-offs, as questions: cash now versus reinvestment, wealth versus liquidity, upside versus losing the job and the stake together, access versus requiring the employee to buy in, financing the buyout versus later distributions, simplicity versus safeguards, individual versus collective formulas, and the seller's interest versus the employee's.
+- Two adoption questions: why an owner would choose this instead of a sale or keeping the equity, and what the employee receives, risks, and can spend.
+- Five tests: additionality after wages, required contributions, taxes, and risk; access for lower-paid and shorter-tenure workers; usability when the money is needed; survival of the firm in a bad year; and who remains outside.
+- An equal-resource illustration, labeled as an illustration: the same enterprise resources paid as wages, as profit sharing, or as ownership, compared over time and in a downturn.
+
+Discard:
+
+- The title. Park it.
+- Any reading of the Department's pages as evidence that these forms raise wages or productivity.
+
+#### Raw reply
+
+Yes—the paper should focus on business-led ownership and shared returns as a way for employees to participate in the value their companies create. The larger economic-security framework belongs in the introduction and discussion, not at the center of the analysis.
+
+The distinction is straightforward: the income examined in this paper originates in enterprise activity, not government transfers. Businesses establish the ownership and distribution arrangements; public policy can enable, support, and safeguard those arrangements without becoming the primary source of employee income.
+
+The pasted outline, preserved in the conversation of 2026-10-20, compares worker cooperatives, ESOPs, employee ownership trusts, direct equity, share-purchase plans, profit sharing, revenue sharing, gainsharing, and phantom equity. It organizes trade-offs as questions, puts business adoption at the center, tests AI scenarios without assuming a surplus to distribute, and limits government to enabling rules. The Department of Labor links are institutional descriptions. The analytical content to keep is recorded above.
+
+### Thread 20 — 2026-10-20 — DeepSeek, on the employee-ownership paper
+
+Source: Pasted by the user in this session. Several statistics were checked against the studies they match.
+Prompt given to the model: The same narrowed scope.
+Section tags: Forms; trade-offs; policy today; AI fit. The scope matches. The abstract and several magnitudes do not.
+Conflicts with this paper's scope:
+
+- The abstract says conventional policy treats workers as passive recipients and that employee ownership gives workers a claim on the capital income of their own firm's AI-augmented production. The second sentence is the paper's hypothesis. The first is rhetoric. The paper's job is the comparison, not a claim that transfers are blind.
+- "A worker who owns 1 percent of the firm has a claim on 1 percent of the AI residual, independent of the tax system" is too clean. Plan accounts are often a thin slice of the firm, distributions are taxed, and a retirement balance is not a current claim on this year's residual.
+- "The claim travels with the worker no matter where the firm is domiciled" overstates US employee stock ownership plans, which are plans of US employers. Do not use that sentence.
+- Tokenization and decentralized finance stay out, as in Thread 3.
+- The abstract's 5 percentage point offset is the Makridis scenario already logged. It is not a measured effect, and the reply's own later caveat says so. The caveat governs.
+
+Numbers or citations to verify before use:
+
+- **Checked, and easy to over-read — NCEO, "Employee Ownership and Economic Well-Being," 2017, using the National Longitudinal Survey of Youth 1997, interviewed in 2013, ages 28 to 34.** Employee-owners had 92 percent higher median household net wealth ($28,500 versus $14,831), 33 percent higher median wage income ($40,000 versus $30,000), and 53 percent longer median job tenure (5.2 years versus 3.4 years). The report says this is not proof of a causal effect. The sample is young adults. The 92 percent is a ratio of those two medians, not a large wealth stock and not an ESOP account balance.
+- **Do not use "average around $180,292."** No source for that figure was found in this pass.
+- **Checked in kind — French worker cooperatives, *Annals of Public and Cooperative Economics*, DOI 10.1111/apce.70046.** When sales are 10 percent below trend, employment falls about 7.8 percent in conventional firms and about 6.2 percent in SCOPs. Pay also falls more in the cooperatives (about 0.47 percent versus 0.36 percent). The employment stability and the pay flexibility belong together. The reply's further claim, that conversion in knowledge-intensive industries raises productivity and cuts wage inequality at the same time, was not the finding in the cooperative productivity abstract checked here. That abstract says smaller and older French cooperatives are more productive than comparable firms, and larger and younger ones are not. Do not use the conversion sentence.
+- **Do not use the UK "8–12 percent more productive" line as a causal result.** It is an estimate from the Employee Ownership Knowledge Programme (2023), an industry-program report, based on gross value added per employee and assumptions about how many people those firms employ. It is not a peer-reviewed causal estimate.
+- **Not re-checked this pass:** a meta-analysis of 26 studies finding profit sharing raises productivity 3.5 to 5 percent, and the claim that profit sharing, share ownership, and the combination raise productivity in French firms. Do not cite the range until the paper is in hand. The qualitative point already in this file stands: effects are stronger when participation and other workplace practices are present.
+- **Makridis (2026), already logged.** Stylized scenario. About 5 percentage points of value added, both ways. Not a forecast.
+- **119th Congress bills and an Employee Ownership Representation Act.** Not confirmed in this pass. Section 1042 rollover for C-corporation sellers and the S-corporation ESOP tax treatment are real features of current law. Describe them from the statute when the policy section is drafted. Do not cite an unconfirmed bill.
+- **Department of Labor facts.** Use the checked versions in Thread 18, not a looser paraphrase.
+
+Keep for a later merge, if the author wants it:
+
+- Six questions for every form: coverage, how direct the income claim is, governance rights, risk, scale, and legal complexity. The summary table is usable once the evidence column is emptied of the figures rejected above.
+- Ownership plus workplace practices, not ownership by itself.
+- Additionality: the claim should sit on top of a wage, and subsidized plans should be watched for replacing wages with a riskier payment.
+- Coverage: part-time, contract, and gig workers are outside most plans. If AI shifts work into those arrangements, a payroll-tied plan misses the people most exposed.
+- The firm-level channel is the paper's subject. It is volatile, illiquid, and tied to one firm. It is available now. It is not the floor.
+
+Discard:
+
+- The titles. Park them.
+- The abstract's tone. The later caveats are the ones that can be drafted.
+
+#### Raw reply
+
+The pasted outline is preserved in the conversation of 2026-10-20. It is a firm-level taxonomy — ESOPs, cooperatives, employee ownership trusts, broad equity and options, and profit and revenue sharing — plus trade-offs, a barrier-removing policy agenda, and a place in the larger architecture as a near-term wedge. The figures that survive are the 2017 NCEO medians for workers ages 28 to 34, with the age, the dollar levels, and the non-causal limit; the French cooperative employment and pay results, stated together; and the Makridis scenario, labeled as a scenario. The $180,292 average, the UK 8–12 percent productivity estimate as a causal result, the knowledge-industry conversion claim, and the unconfirmed bills do not.
+
+### Thread 21 — 2026-10-20 — Gemini, on the employee-ownership paper
+
+Source: Pasted by the user in this session. No citations and no new figures.
+Prompt given to the model: The narrowed employee-ownership scope.
+Section tags: Forms; trade-offs; policy today; AI fit. The forms match the scope, including synthetic equity. The comparison table and the section title that says ownership outperforms wages do not.
+Conflicts with this paper's scope:
+
+- "Without government market intervention" in the introduction fights the policy section, which is tax deferral, deductions, and loan guarantees. The paper's line stays: the paycheck comes from the firm; policy can change the tax and the financing, and that help has a public cost.
+- Section IV is titled as if ownership outperforms wages in an automated firm. That ranking is not a result. The principal-agent sentence, that employee-owners capture the cost savings when AI replaces tasks, assumes the worker is still there and still holds the claim. A worker who leaves before vesting does not capture those savings.
+- The matrix states High, Moderate, and Low as if they were findings. They are not. In particular: an employee ownership trust is not low-risk for the worker, because the distribution and the job still depend on the firm; revenue sharing is not low-risk when revenue rises and margins do not; a leveraged employee stock ownership plan does not expand "without diluting" the firm's cash, because the debt has to be paid; cooperatives are not established here as high wealth for low-wage sectors.
+- Section 1042, as current law, is a gain deferral for certain sales of stock to an employee stock ownership plan or a qualified worker cooperative. It is not a current rule for employee ownership trusts. "Expanding 1042 to trusts" is a proposal. Say which.
+- Stock appreciation rights and phantom stock are contracts for cash tied to value. They sit with performance-linked pay unless the employee actually receives a share. Do not file them under direct equity.
+
+Numbers or citations to verify before use:
+
+- None are offered. Small Business Administration guarantees for employee buyouts are a known lever under the Main Street Employee Ownership Act. Describe what the agency actually does today when that section is drafted. Do not describe a guarantee as if it already removes the borrowing friction.
+
+Keep for a later merge, if the author wants it:
+
+- The form list, as questions rather than as the matrix scores: employee stock ownership plans, cooperatives, perpetual trusts, direct equity, options and restricted units, phantom or appreciation rights, and revenue or profit shares.
+- Policy as a catalyst: clearer private-company valuation rules, technical help for succession, and financing that does not load the firm with more debt than the cash flow can carry.
+- The last placement, which matches the scope: this layer is the upside inside the firm; the rest of the architecture is what covers the downside for people the firm does not employ.
+
+Discard:
+
+- The title. Park it.
+- The matrix ratings. Rebuild that table from the questions in Threads 18 and 19, not from these labels.
+
+#### Raw reply
+
+Here is a focused outline tailored specifically to the market-driven mechanisms of employee ownership. This outline treats employee ownership as a capitalist foundation — an engine driven by private enterprise, market incentives, and enterprise design, with targeted policy enabling it — while positioning it as the immediate building block within the future AI economy.
+
+The pasted outline, preserved in the conversation of 2026-10-20, proposes the title "Pre-Distribution by Design," compares ESOPs, cooperatives, employee ownership trusts, direct and synthetic equity, and revenue or profit shares, and closes with tax, financing, valuation, and technical-assistance levers plus a short placement in the larger floor. The ratings in its comparison table and the claim that ownership outperforms wages are not adopted. The forms and the enabling-policy list are the parts that match this paper.
+
+### Thread 22 — 2026-10-20 — Z.ai, on the employee-ownership paper
+
+Source: Pasted by the user in this session. Many counts are stated without a table or year.
+Prompt given to the model: The narrowed scope.
+Section tags: Forms; trade-offs; policy today; fit in the larger architecture. The section plan matches the paper. The scale figures mostly do not.
+Conflicts with this paper's scope:
+
+- "The most politically feasible" mechanism is a political claim. It needs a reason. It is not a finding.
+- Government-transfer ownership and household investing are correctly placed outside the paper. Workplace-structured claims are the subject. That matches the scope.
+- Profit sharing and revenue sharing are included and then distinguished from a residual claim. That matches the scope.
+
+Numbers or citations to verify before use:
+
+- **Do not use the ESOP scale line as written.** NCEO, plan year 2023: 6,609 plans, 6,411 companies, 15.1 million participants, 11.0 million active, $2.06 trillion in total plan assets, $398 billion in employer stock. "~6,500 plans" is close. "~14 million participants" is between the active and total counts. "~$1.4 trillion" is not the current total and is not the employer-stock figure.
+- **Do not use "~600 worker co-ops."** The Department of Labor's report to Congress, citing the 2025 worker-cooperative census, identifies 820 known worker cooperatives and democratic workplaces, about 13,520 workers, and about $806 million in revenue. A 2025 state-of-the-sector estimate puts the field near 1,300 firms and 16,000 workers. Rutgers' 2025 brief, on earlier data, said about 10,000 workers in 900 to 1,000 cooperatives. Use a named census and year.
+- **Not found in this pass, so not usable:** about 30 percent of S&P 500 employees receive equity; about 20 percent of US workers are in formal profit sharing; about 36 percent of workers are in gig or nontraditional arrangements; about 2.3 million firms owned by people 55 or older; Executive Order 12943 as a contracting preference; a CHIPS Act pilot of SBA 7(a) loans for ESOPs; the state tax-credit list Ohio, North Carolina, Iowa, and Indiana, and the center list that adds Pennsylvania and New York, until each is checked against the statute or the Department of Labor's own list. The Department's December 2025 pages, already logged, are the list to use.
+- **IRC §401(a)(35)** is a diversification rule aimed at publicly traded companies. It does not, by itself, fix concentration in a private-company plan. Private plans have a separate age-and-service diversification rule. Describe the rule that applies to the plan at issue.
+- **Kruse, Freeman, and Blasi, *Shared Capitalism at Work* (2010)** is a real volume. It is not, on the face of this reply, a single meta-analysis that found employee stock ownership plans are 4 to 5 percent more productive. Cite the chapter or the study. Do not cite the book as that coefficient.
+- **About twice the retirement assets.** A 2010 NCEO study, funded by the Employee Ownership Foundation, using Form 5500 data, found ESOP participants had about 2.2 times as much in retirement plans and 20 percent more financial assets than a comparison group. That is the neighborhood of "about twice." Label the year, the funder, and "retirement plan assets," not household net worth.
+- **Layoff results for 2008–2009 and 2020.** Plausible literatures (Kurtulus and Kruse; Italian cooperative studies such as Becchetti). The reply's years and citations were not re-opened here. Do not quote the layoff claim until the paper and the recession window match.
+
+Keep for a later merge, if the author wants it:
+
+- The eight comparison dimensions: worker risk, portability, incentive alignment, coverage, voice, stage of firm, administrative cost, and tax treatment.
+- Which form fits which firm: mature closely held firms, growth companies, new cooperatives, any firm for a profit share, and platform or gig settings only if the legal form can exist without a traditional payroll.
+- Coverage is the modest claim. Reaching most workers is a different project from widening the plans that exist.
+- Section 8's boundary: this layer does not reach people without the job, does not reset the economy-wide labor share by itself, and does not replace social insurance.
+
+Discard:
+
+- The titles. Park them.
+- The offer to draft a .docx.
+
+#### Raw reply
+
+The pasted outline is preserved in the conversation of 2026-10-20. It narrows the paper to workplace ownership, surveys five forms, compares them on shared dimensions, lists near-term legal levers, and puts the larger floor in a closing section. The scale figures that survive are the NCEO 2023 plan counts already logged, the 2025 worker-cooperative census cited by the Department of Labor, and the 2010 retirement-asset comparison with its funder and year attached. The $1.4 trillion, 600-cooperative, 30 percent, 20 percent, 36 percent, 2.3 million, and unconfirmed statutory lists do not.
+
+### Thread 23 — 2026-10-20 — Mistral, on the employee-ownership paper
+
+Source: Pasted by the user in this session. The closing "Knowledge" link is that model's memory, not this repository.
+Prompt given to the model: The narrowed scope, including the author's line that the income comes from the firm and government enables.
+Section tags: Forms; trade-offs; promotion by businesses; policy as enablement; AI fit. Matches the scope. One rebuttal of concentration risk goes too far.
+Conflicts with this paper's scope:
+
+- The hypothesis says employee ownership is the most direct mitigation because the decoupling happens inside the firm. That is the paper's question. "Most direct" and "can scale now" stay conditional.
+- "Workers already bear layoff risk, so an ownership stake is only an added asset" is true when the stake is additional to the wage. It is not true when the plan replaces pay. Additionality stays a test, not a rebuttal that closes the risk.
+- *Capital in the Twenty-First Century* is Piketty's. The 1958 book is Kelso and Adler. Same cautions as earlier threads.
+- A claim that firms which do not share ownership will create political pressure for the other layers is a hypothesis. Label it as one.
+
+Numbers or citations to verify before use:
+
+- No new dollar figures. ESOP and cooperative evidence should use the checked sources already in this log.
+- **Italy’s Marcora Law and the UK Employee Ownership Trust tax relief** are real enabling frameworks. Document the statute and the year before describing what they pay for. They are precedents for how government can speed a transition. They are not evidence about US wages.
+- The "silver tsunami" is a succession story, not a cleared count. The 2.3 million figure in Thread 22 is not established. The practical point can be stated without that number: many private firms will change owners, and each sale is a choice between an outside buyer and the people who work there.
+
+Keep for a later merge, if the author wants it:
+
+- Two playbooks. Owners, at founding and at sale, are the primary actors. Government clarifies tax treatment, supports financing and technical help, and standardizes documents. Government does not become the payer of the income.
+- The matrix columns: cash versus wealth, who funds the claim, vesting and liquidity, risk on the worker, governance rights, cost to the firm, which firms it fits, and whether it is legal today.
+- Age-based diversification in employee stock ownership plans is a design response to the Enron problem. It does not remove the risk for younger workers or for the years before diversification is allowed.
+- A failure case belongs in the appendix next to the successes.
+- International enabling models — United Kingdom, Italy, and others — as comparisons of rules, not as proof the US program will copy their results.
+
+Discard:
+
+- The titles. Park them.
+- The knowledge-file link.
+- The offer to draft or run a research process in that chat.
+
+#### Raw reply
+
+The pasted outline is preserved in the conversation of 2026-10-20. It splits promotion into a business playbook and an enabling-policy playbook, keeps profit sharing distinct from a durable equity claim, adds phantom equity, and limits the larger floor to a forward section. The concentration-risk rebuttal is not adopted unless the stake is additional to wages. The Marcora Law and UK trust reliefs are precedents to document, not results to import.
+
+### Thread 24 — 2026-10-20 — Claude, on the employee-ownership paper
+
+Source: Pasted by the user in this session. It again assumes the author operates an employee-ownership business. That role is still not established in this project.
+Prompt given to the model: The narrowed scope.
+Section tags: Forms; wealth versus income; policy levers; AI limits. The tightest statement of what this paper is for.
+Conflicts with this paper's scope:
+
+- None on the job. Business owners and workers are the actors. Policy lowers barriers. The paper shows how far employee ownership can go and where it stops. Sovereign funds and universal basic income are what this paper does not design.
+- A conflict-of-interest statement is still not adopted. The design rule underneath it is: give the weaknesses of employee stock ownership plans — cost, complexity, leverage, and the repurchase obligation — the same space as the strengths, and give non-ESOP forms a real section.
+- Claude asks whether the policy section should weigh federal law equally with state programs and private actors. The scope already answers: businesses are the primary actors; government enables. Lenders, advisers, and succession practice get a full subsection. Federal and state rules are the enabling subsection, not a second paper.
+
+Numbers or citations to verify before use:
+
+- **About 11 million active ESOP participants is the right order.** NCEO plan year 2023: 11.0 million active participants, out of 15.1 million participants in total. "Roughly 160 million" employed people is the right order for the US workforce. Eleven million is a small share of that workforce. Say active participants, name the year, and do not mix this with the survey estimate that about 25 million workers have some employer stock, options, or purchase plan.
+- Section 1042 and S-corporation ESOP tax treatment are real. Verify the current statute and SECURE 2.0 changes when the policy section is drafted. Do not describe pending bills as law.
+
+Keep for a later merge, if the author wants it:
+
+- The paper-wide tests: reach, adequacy, stability, portability, risk, and governance.
+- Wealth versus income has to be answered in the text. Most employee stock ownership plan value is paid at separation or retirement. Either show how a plan can pay a more regular income, or say plainly that the benefit is deferred wealth and not this year's wage replacement.
+- In an employee-owned firm, automation gains can accrue to worker-owners. A firm that automates away its own workforce also shrinks the set of owners. Workers at firms that never share ownership receive nothing from this layer.
+- The strongest critique to put in the paper's own voice: even fast growth in these plans will not cover most workers, and the people who benefit are often those who already have stable, longer-tenure jobs.
+- Label NCEO and industry-commissioned studies as such. Prefer Rutgers, NBER, Federal Reserve, and GAO work when the claim is an outcome.
+
+Discard:
+
+- The title. Park it.
+- A disclosure drafted from an unconfirmed business.
+
+#### Raw reply
+
+The pasted outline is preserved in the conversation of 2026-10-20. It is a US paper on business-led employee ownership: a taxonomy from employee stock ownership plans through revenue sharing, a trade-off section that includes selection bias, a policy section that separates existing law from bills, and an AI section whose hard limit is coverage. The 11 million active participants, set against a workforce on the order of 160 million, is the scale sentence to keep, with the year and the active-participant definition attached.
+
+### Thread 25 — 2026-10-20 — Claude Opus, on the employee-ownership paper
+
+Source: Pasted by the user in this session. The reply says search capacity ran out and that only one legislative item was confirmed in that session. Items it marked for verification are treated here the same way unless this log already checked them.
+Prompt given to the model: The narrowed scope.
+Section tags: Definitions; forms; trade-offs; policy today; AI fit. The strongest wording yet of a distinction already in the scope: the paycheck comes from the firm, and tax policy has still shaped whether firms adopt the structure.
+Conflicts with this paper's scope:
+
+- None on the job of the paper. The reply's first framing choice is the one to draft with. Businesses create the value and hold the structures. Policy lowers transaction costs, risk, and financing barriers. Calling the arrangement purely private will not survive a reviewer who points at Section 1042, deductible contributions, and S-corporation employee stock ownership plan tax treatment. Those are real features of current law. They are public costs. They are not the source of the employee's return.
+- Ownership and income-sharing stay separate under one umbrella term. That matches the scope.
+- A conflict-of-interest disclosure is still not adopted. The unconfirmed business premise is unchanged.
+
+Numbers or citations to verify before use:
+
+- **Checked — S.2458, Employee Ownership Financing Act, 119th Congress.** Introduced in the Senate on 24 July 2025 by Senator Sanders, read twice, and referred to the Committee on Health, Education, Labor, and Pensions. It is not law. The bill would establish an Office of Employee Ownership in the Department of Labor and an Employee Ownership Loan Program for employee stock ownership plans and eligible worker-owned cooperatives. A sponsor press release describes a $500 million loan fund and several other provisions, and it attaches layoff and wealth claims that were not opened here. Use the bill's status. Do not use the press release's outcome numbers.
+- **Already checked — plan counts and the WORK Act appropriation.** More than 6,600 plans and about 15 million participants match the NCEO 2023 figures in this log, if "participants" is not silently changed to "active employees." The Department of Labor initiative exists. Congress appropriated $2 million in February 2026. That is not proof grants have been paid.
+- **Still marked verify, and still unverified in this pass:** UK trust tax incentives dated to 2014 as a specific statutory citation; Ownership Works outcome data; rideshare requests to allow contractor equity; the effective date of any SECURE 2.0 change to Section 1042 for S corporations; the status of a Department of Labor adequate-consideration rule; implementation of the Main Street Employee Ownership Act of 2018; layoff studies for the Great Recession and COVID; the specific profit-sharing and employee-stock-ownership meta-analyses; and the size of the retiring-owner pipeline.
+- ERISA distribution timing for employee stock ownership plans is real and plan-specific. Describe it from the plan document and the statute when drafting. Do not invent a single payout schedule.
+
+Keep for a later merge, if the author wants it:
+
+- Six dimensions for every arrangement: ownership, control, timing and liquidity, diversification, portability, and who funds the claim.
+- Employee ownership captures AI gains only for workers whose own employer captures those gains. If the value sits in firms with few employees, the coverage of this layer shrinks. Say that in the introduction.
+- Household income moves with the worker's own wage when both depend on the same firm. That correlation is the analytical core.
+- The summary matrix — forms by those six dimensions — is the figure to build.
+- Policy levers ranked by cost, additional ownership created, political feasibility, and evidence. Each tax dollar has to be tested for deals that would have happened anyway.
+- Design rules aimed at disruption: faster vesting, claims that survive job loss, rollover into a diversified account, and a diversification threshold. These are design questions, not current law.
+
+Discard:
+
+- The title. Park it.
+- The offer to draft the framework, the matrix, or a policy inventory in that chat.
+
+#### Raw reply
+
+The pasted outline is preserved in the conversation of 2026-10-20. It separates ownership structures from income-sharing, organizes trade-offs as tensions, puts the business case before the policy levers, and connects the layer to the larger floor only at the end. S.2458 is a bill introduced on 24 July 2025, not a program in force. Every item the reply marked for verification stays unverified except the facts already checked in this log.
+
+### Thread 26 — 2026-10-20 — GPT Sol, on the employee-ownership paper
+
+Source: Pasted by the user in this session. Department of Labor and SBA references are institutional, not outcome studies.
+Prompt given to the model: The narrowed scope.
+Section tags: Definitions; forms; business adoption; trade-offs; policy today; AI limits. Matches the scope. Adds a tax-code distinction the paper has to keep.
+Conflicts with this paper's scope:
+
+- None. The firm is the unit of analysis. Government support has a fiscal cost and is not the source of the employee's payment. The larger floor is a division of labor, not a second design project.
+- Do not flatten the wage-substitution evidence. One logged study, Buchele, Kruse, Rodgers, and Scharf, finds no substitution of company stock for pay or benefits in its samples. Another, unnamed here, is said to associate profit sharing or options with lower regular pay for some occupations. Use the first only with the limits already logged. Do not cite the second until it has a title.
+
+Numbers or citations to verify before use:
+
+- **A tax-qualified profit-sharing plan is not a share of profits.** Under the Internal Revenue Code, a plan called a profit-sharing plan is a defined-contribution retirement plan and need not be funded out of current profits. A cash bonus calculated on accounting profit is a different instrument. Confirm the code section when drafting. Do not use the retirement-plan name as evidence of profit sharing.
+- **SBA 7(a).** The program can guarantee loans for qualifying changes of ownership, under its own rules. That is not, by itself, an employee-ownership product. The Main Street Employee Ownership Act is the statute that pointed the agency at these transitions. Describe what the agency does now, not what the statute hoped.
+- **Department of Labor on valuation.** Overpayment for employer stock is a recognized threat to plan participants, and fiduciaries have a valuation duty. Cite the Department's rule or guidance when the sentence is drafted. Do not leave it as a paraphrase.
+- No new participant counts.
+
+Keep for a later merge, if the author wants it:
+
+- The counterfactual: compare the arrangement with ordinary wages and benefits, with an equal-cost raise or bonus, and with cash plus diversified saving. Ownership is not treated as a free add-on.
+- Who pays for the claim: existing owners through dilution, the employee through a purchase, retained earnings, seller finance, acquisition debt, or a public incentive.
+- Report the median and the downside, and whether the money can be spent, not only the average account.
+- Three AI failures this layer cannot fix: the employer loses to a competitor, the gain shows up as a lower price rather than a profit, or the person never gets the job. Technology suppliers may also take the gain. Those cases are why the other layers exist.
+
+Discard:
+
+- The title. Park it.
+- A declaration that any one structure is best. The conclusion is a decision framework by type of firm.
+
+#### Raw reply
+
+The pasted outline is preserved in the conversation of 2026-10-20. It keeps the firm as the unit of analysis, separates ownership from contractual sharing, requires an equal-cost comparison with wages, and limits the larger architecture to a short division of functions. The tax-code meaning of "profit-sharing plan," the limits of SBA 7(a), and the unnamed second study on wage substitution are the items that must not be blurred in drafting.

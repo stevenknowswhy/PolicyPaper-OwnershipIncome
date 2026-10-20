@@ -1,12 +1,26 @@
-# Ownership Income and the Economic Floor
+# Employee Ownership Income
 
-Working materials for a research paper on how broader ownership of productive assets, together with a guaranteed floor of cash, credits, and subsidies, can mitigate wage disruption from AI and robotics.
+Working materials for a research paper on employee ownership income: the forms businesses can use, the trade-offs, what policymakers can do today, and how this layer fits a larger response to AI and robotics.
 
-This repository holds the outline and the source log. It is not a finished paper, and nothing in it is a finding yet.
+The repository holds the outline and the source log. It is not a finished paper, and nothing in it is a finding yet.
 
-## The architecture under examination
+## What this paper is
 
-A citizen's baseline is five layers, fitted to where they live:
+The larger picture is a five-layer floor: a federal fund, a state fund, a community fund, employee ownership, and a universal basic income, paid as cash, credits, and subsidies. This paper is only the employee-ownership layer, and how that layer relates to the rest.
+
+The income comes from the firm. Employees hold a claim because of how their company is structured and because of the work they do there: an employee stock ownership plan, a worker cooperative, an employee ownership trust, broad-based equity, profit sharing, or revenue sharing. It is not a payment from the government. Public policy can make these structures easier for businesses to adopt. It is not the source of the paycheck.
+
+The paper covers five questions:
+
+1. How ownership income is promoted, with businesses as the actors.
+2. What each form gives the employee, and which forms are a lasting claim on the company rather than a share of current results.
+3. The economic trade-offs: wealth versus cash now, risk tied to the same employer as the wage, who is left out, liquidity, and voice in governance.
+4. What policymakers in the United States can do today, under current institutions.
+5. How the layer sits in an AI future: it can be widened now, it covers people inside participating firms, and it does not by itself guarantee a floor for everyone else.
+
+## The larger architecture
+
+Kept here so this paper stays in its place. It is not the design this paper has to complete.
 
 1. A federal sovereign wealth fund.
 2. A state sovereign wealth fund.
@@ -14,32 +28,18 @@ A citizen's baseline is five layers, fitted to where they live:
 4. Employee ownership income.
 5. A universal basic income.
 
-Together these layers are the floor. No citizen falls below it. Necessities are paid with a mix of cash, credits, and subsidies. Most credits and subsidies are settled automatically, so people do not apply for them or manage them. The public books still show what was paid, and a person can see and correct a payment.
-
-Employee ownership is the layer that exists under current law. Employee stock ownership plans, employee ownership trusts, broad-based equity, and worker cooperatives can be widened now and stacked onto the funds and the automatic floor as those are built. People without that job are carried by the other four layers.
-
-Place changes the mix. It does not lower the floor. A community with a thin tax base is not left to fund its own baseline. State and federal layers are what keep the same necessities covered in a poor place and a rich one.
-
-Ownership returns can lift people above the floor. They cannot be the floor by themselves, because they move with markets, with a place, or with a single firm. The cash and necessity layers have to keep paying in a year when those returns fall.
-
-## What the paper still has to show
-
-- Who capitalizes each fund, and who gives up that claim.
-- What the necessity basket contains, what it costs in local prices, and which parts are cash, credits, or subsidies.
-- How large a claim must be before it is material next to lost wages, and how long it takes to get there.
-- What employee ownership adds for people inside a participating firm, and how the other layers cover everyone else.
-- A payout rule and a backstop, so a bad market does not drop someone through the floor.
+People without a participating employer are carried by the other layers. Ownership returns can lift people above the floor. They move with the firm and the market, so they are not the guarantee.
 
 ## Repository
 
 | File | Role |
 | --- | --- |
-| [ownership-income-ai-wage-disruption-outline.md](ownership-income-ai-wage-disruption-outline.md) | Working outline, author's thesis, claim rules, and the annotated log of model replies. |
+| [ownership-income-ai-wage-disruption-outline.md](ownership-income-ai-wage-disruption-outline.md) | Working outline, the scope of this paper, the larger thesis, and the annotated log of model replies. |
 
-The outline's intake log keeps each model reply as source material. Replies are not citations. Numbers in those replies are used only after they have been checked against a primary source, and the limits of each figure are written next to it.
+Replies in the log are source material, not citations. A figure is used only after it has been checked, and the limits of that figure are written next to it.
 
 ## Status
 
-Opened 20 October 2026. The jurisdiction for the institutional case is the United States. Whether the first publication is the full architecture or a first paper on employee ownership, and whether the floor is costed as one baseline plus ranges, are still open.
+Opened 20 October 2026. The institutional case is the United States. This paper is the employee-ownership paper. Papers on the funds, the cash floor, and automatic delivery come later.
 
-Working title, not locked: *Who Owns the Machine: Ownership Income, Wage Disruption, and the Limits of Transfers in an AI Economy.*
+Working title, not locked: *Employee Ownership Income: Forms, Trade-offs, and Its Place in an AI Economy.*
