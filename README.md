@@ -43,3 +43,11 @@ Replies in the log are source material, not citations. A figure is used only aft
 Opened 20 October 2026. The institutional case is the United States. This paper is the employee-ownership paper. Papers on the funds, the cash floor, and automatic delivery come later.
 
 Working title, not locked: *Employee Ownership Income: Forms, Trade-offs, and Its Place in an AI Economy.*
+
+## Author
+
+**Stefano Stokes** is Managing Partner at [Forhemit](https://www.forhemit.com/), a private equity firm that helps founder-led businesses transition to 100% employee ownership. His professional background spans planning, policy, and finance, including disaster planning and policy work for the City of San Francisco.
+
+His research interests include employee ownership, economic resilience, and how businesses can broaden participation in the wealth created by technological progress.
+
+**Disclosure / competing interests.** The author is Managing Partner at Forhemit, a private equity firm whose business includes structuring and financing transitions to 100% employee ownership. The author therefore has a commercial interest in the employee ownership sector. This paper is not intended to promote any particular firm, transaction, or financial product, and no claim in it should be read as investment advice. The author has sought to present evidence on employee ownership—including evidence that is mixed, conditional, or unfavorable—as fully as the evidence on favorable outcomes, and he invites scrutiny of both the analysis and the conclusions.

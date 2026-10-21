@@ -1,12 +1,20 @@
 # Ownership Income as a Mitigation of AI Wage Disruption
 
 **Status:** Working outline. Not a draft. No findings are established yet. The author's overarching thesis was recorded on 2026-10-20. On the same day the author limited this paper to the employee-ownership layer: business-structured claims on the firm, set inside that larger architecture.
-**Threads filed:** 26 (through GPT Sol on the employee-ownership paper). Logged and annotated on 2026-10-20. Not merged into the outline.
+**Threads filed:** 34 (through Gemini on definitions and the forms matrix, 21 October). Two different 11-million counts are distinguished. The $2 million is an allocation inside a training account. H.R. 3105 is a House bill, not law. The Forhemit pricing question is still open. The disclosure is unchanged.
 **Document role:** Spine for a publishable research paper. Later brainstorming threads from other models get filed into the intake log at the end and then sorted into these sections. Threads are source material, not citations.
 **Intended form:** A long policy research paper (about 8,000–12,000 words) written so that an economist, a policy analyst, and a general reader can each audit it. The paper argues from an accounting framework and a structured policy comparison. It does not present itself as a new causal estimate or a new growth model unless later work actually produces one.
 **Date opened:** 2026-10-20
 
 ---
+
+## Author
+
+**Stefano Stokes** is Managing Partner at Forhemit, a private equity firm that helps founder-led businesses transition to 100% employee ownership. His professional background spans planning, policy, and finance, including disaster planning and policy work for the City of San Francisco.
+
+**Research.** His research interests include employee ownership, economic resilience, and how businesses can broaden participation in the wealth created by technological progress.
+
+**Disclosure / competing interests.** The author is Managing Partner at Forhemit, a private equity firm whose business includes structuring and financing transitions to 100% employee ownership. The author therefore has a commercial interest in the employee ownership sector. This paper is not intended to promote any particular firm, transaction, or financial product, and no claim in it should be read as investment advice. The author has sought to present evidence on employee ownership—including evidence that is mixed, conditional, or unfavorable—as fully as the evidence on favorable outcomes, and he invites scrutiny of both the analysis and the conclusions.
 
 ## Working title
 
@@ -152,359 +160,164 @@ Use these consistently. If a later thread uses a word differently, the intake lo
 
 ---
 
-## Proposed paper structure
+## Paper structure
+
+This is the spine for the employee-ownership paper. The five-layer floor stays in the thesis above. It is context in the introduction and in the closing section. It is not designed here.
 
 ### Abstract (150–200 words, written last)
 
-Four beats: the factor-share problem; the three conditions in the working thesis; the mechanism taxonomy in one sentence; the comparison result, stated only as strongly as the evidence section supports. No forecast of the end of work.
+The problem inside the firm. The distinction between a claim on the company and a share of current results. The main trade-offs. What businesses and policymakers can do now. Where the layer stops. No forecast of the end of work, and no ranking of ownership over wages that the evidence section has not earned.
 
-**JEL codes to confirm:** J31, J38, D31, D33, H20, H53, O33. Add E25 if the factor-share accounting is central.
+**JEL codes to confirm:** J33, J54, G32, M52, O33.
 
-**Keywords:** labor share; capital income; artificial intelligence; automation; broad-based ownership; social wealth fund; universal basic income; predistribution.
+**Keywords:** employee ownership; employee stock ownership plans; worker cooperatives; profit sharing; revenue sharing; artificial intelligence; business succession.
 
 ### 1. Introduction
 
-Purpose: state the problem in household terms, then in accounting terms, then say what the paper does.
+Purpose: say what happens inside the firm when more of the surplus accrues to capital, and what this paper will and will not do.
 
-- Open with the incidence point, not with a technology forecast. Aggregate gains from AI can coexist with losses for households whose income is almost entirely wages.
-- Name the false choice the public debate offers: rebuild wages, or replace them with a check. Ownership is a third response, and it only sometimes substitutes for either.
-- State the three research moves: framework, taxonomy, comparison.
-- State the working thesis and the three conditions.
-- Preview the conclusion the evidence can actually support. If the later draft's strongest honest conclusion is "complement, under these conditions," the introduction should foreshadow that rather than a universal remedy.
-- Roadmap paragraph.
+- Separate exposure to AI from realized effects on jobs, hours, and pay.
+- If more income goes to capital, it matters who holds the claim. Today that claim is concentrated.
+- This paper is the firm. Employee ownership and income-sharing exist now. Businesses create the value. Policy can lower the cost of adopting a structure. Policy is not the source of the paycheck.
+- The introduction carries the competing-interests statement: the author is Managing Partner at Forhemit, whose business includes structuring and financing transitions to 100% employee ownership; the paper is not investment advice and does not promote a firm, a transaction, or a product; mixed and unfavorable evidence is presented as fully as favorable evidence.
+- Research questions: what the forms are; what the evidence shows for workers and firms; what the trade-offs are; what policymakers can do now; how the layer sits in a broader system it does not itself provide.
+- The honest preview: a claim on the employing firm can share that firm's gains with the people who work there. It does not cover people outside the firm, and a balance paid at retirement is not this month's wage.
 
-What this section must not do: cite a dramatic unemployment percentage as if it were a fact. Scenario ranges belong in the disruption section, labeled as scenarios.
+### 2. Definitions
 
-### 2. Related literature
+Purpose: keep ownership, pay, and governance from being treated as the same thing.
 
-Purpose: show the paper knows the debate and is not a pamphlet. Short enough that the original work is the taxonomy and the comparison.
+Three rights, scored separately:
 
-Subsections:
+- **Ownership.** A direct or beneficial claim on the firm's equity or surplus.
+- **Income-sharing.** A contract for part of profit, revenue, or a measured gain. It can end with the job and carry no residual stake.
+- **Participation.** A voice in governance or in workplace decisions.
 
-1. **Task-based automation and the labor share.** Displacement, productivity, capital deepening, reinstatement of new tasks. The empirical claim to handle carefully: automation can lower the labor share even when it raises output per worker. Reinstatement can offset that. The paper's policy case is the hedge against weak reinstatement, not a denial that new tasks can exist.
-2. **Who receives capital income.** Concentration of equity, private business, and housing. Housing is the main asset of many middle-wealth households and is not a claim on AI capital. Retirement accounts are claims on capital and are unequally held.
-3. **Predistribution and capital-grant traditions.** Stakeholder grants, baby bonds, universal basic capital, social dividends. Record the scale of historical proposals next to a plausible wage loss so the reader sees the units.
-4. **Shared capitalism inside the firm.** ESOPs, profit sharing, worker cooperatives. Evidence on wages, employment stability, and the risk of concentrated employer stock.
-5. **Income floors.** UBI, negative income tax, universal basic services. Fiscal cost, labor supply, and what experiments have and have not shown. Experiments are not estimates of a post-automation economy.
-6. **AI-specific ownership proposals since 2023.** Savings-based capital income, citizen equity, public compute, automation dividends. One subsection that sorts them into the taxonomy rather than summarizing each at length.
+Three outcomes, reported separately:
 
-### 3. Accounting framework
+- Spendable cash.
+- Vested wealth that may not be spendable yet.
+- What the household can fall back on if the job and the firm fail together.
 
-Purpose: give the referee a spine that does not depend on a forecast.
+A retirement plan that the tax code calls a profit-sharing plan does not have to be funded out of profits. A cash bonus calculated on profit is a different instrument. Phantom stock and stock appreciation rights are contracts for cash tied to value. They are ownership income only when the employee receives a share.
 
-Household income identity, stated in words and then in notation:
+The paper's core variable is how closely the firm claim moves with the worker's own wage. The hypothesis is that a claim can raise what a worker holds in the firm. It is not an insurance instrument, because the return moves with that worker's own labor income. It can belong in a larger set of protections as an income-and-wealth layer. It cannot be the floor.
 
-`household income = labor earnings + ownership income + transfers − taxes`
+Six dimensions for every arrangement: whether there is a claim on assets; whether there is control; when cash can be spent; whether the risk is one firm or many; what happens on leaving, including displacement; and who funds the claim (existing owners, the employee, retained earnings, seller finance, debt, or a public incentive).
 
-Plus a wealth identity:
+### 3. The shift inside the firm
 
-`end-of-period wealth = prior wealth + saving + accrued gains + gifts − withdrawals`
+Purpose: a short setup, not a second paper on automation.
 
-Consequences the paper draws from the identities alone:
+- Task displacement, productivity, and new tasks. Automation can raise output per worker and still lower the labor share. New tasks can offset that. The paper does not pick one forecast.
+- Inside a firm, when output grows and the claim on the residual stays with outside owners, the people doing the work do not hold that gain.
+- Three scenarios, labeled as scenarios. The firm captures the AI gain as profit or enterprise value. Competition passes the gain through as a lower price. The firm is disrupted, so wages and the ownership claim fall together. Employee ownership captures a gain only when that employer captures it. If the value sits in firms with few employees, or if competition shows up as a lower price rather than a profit, this layer has little or nothing to distribute.
 
-- A fall in labor earnings is fully offset by ownership income only if the ownership term rises by at least as much, for that household.
-- A transfer offsets the fall only while it is paid, and only to the extent of the net transfer.
-- An accrued gain that cannot be spent does not pay for current consumption. Liquidity is a separate line.
-- Giving more people a claim does not increase the sum of claims. It changes the distribution. Any real addition to household ownership income in the aggregate comes from a larger capital stock, a higher return, or a claim on income that previously accrued to government or to nonresidents.
+### 4. Forms
 
-Then a short mapping from the task model: when automation moves tasks from labor to capital, the ownership term rises for whoever owns the capital used in those tasks. The policy question is who that is.
+Purpose: the descriptive center. One template for each form: how it works, how common it is, who funds it, tax treatment, control, liquidity, risk, and what happens if the firm automates, shrinks, or fails.
 
-A small numerical illustration, clearly labeled as arithmetic rather than a forecast. Example shape, to be calibrated later with real labor-share and wealth-distribution numbers:
+**Claims on the firm**
 
-- Take a household with 90 percent of income from wages.
-- Shift 5 or 10 percentage points of national income from labor to capital.
-- Show the household's income change if it owns a proportional share of capital, if it owns nothing, and if it owns the share typical of the bottom half of the wealth distribution.
+- Employee stock ownership plans, including leveraged and unleveraged plans and the S-corporation form. Trust-held shares, allocations, valuation, repurchase obligations, and distributions that are often at departure or retirement.
+- Employee ownership trusts. A lasting trust for employees, with benefits that depend on the trust document. Established in the United Kingdom. Not a fully specified U.S. statute.
+- Worker cooperatives. Membership, one member one vote, patronage distributions. Small in the United States relative to employee stock ownership plans. Harder to finance at scale.
+- Broad-based equity: restricted stock, options, and purchase plans. Common in some public and growth companies, often narrow in who is eligible.
+- Direct purchase and hybrids.
 
-This illustration is the paper's exhibit. It should be recomputed from published distributional data, not invented.
+**Shares of results, without a residual claim**
 
-### 4. How AI and robotics disrupt wage income
+- Cash and deferred profit sharing, distinguished from a tax-qualified plan that only bears the name.
+- Gainsharing on a measured improvement.
+- Revenue sharing. Easier to audit than profit, and able to pay out when the firm is not actually earning.
 
-Purpose: specify the channels so "disruption" is not one blob. Ownership income is a better fit for some channels than others.
+**Contracts tied to value**
 
-Channels to separate:
+- Phantom equity and stock appreciation rights.
+- Proposals that are not practice: equity for contractors, and claims that would survive the elimination of the job. Label them as proposals.
 
-1. **Task displacement.** Capital performs tasks labor used to perform. Labor share in that production falls. This is the channel ownership income is built for.
-2. **Wage-structure effects.** Remaining jobs pay less, or premia shift toward skills the worker does not have. Ownership does not restore the lost skill price. It can still diversify the household's income sources.
-3. **Bargaining and rents.** If AI weakens workers' outside options or concentrates product-market rents in a few firms, wages can fall relative to productivity even without full displacement. A claim on those rents is a direct response. Antitrust and labor law are alternatives the comparison section must mention.
-4. **Transition unemployment.** A spell between jobs. Ownership income is a poor instrument unless the claim is already paying cash. Unemployment insurance and wage insurance match this channel better.
-5. **Missing careers.** People who never enter the occupation that was automated. They have little wage history to save from, and they are often left out of employee-ownership plans. Citizen-level claims include them. Job-linked claims do not.
-6. **Complementary demand.** New tasks and cheaper goods can raise real wages. The paper records this as the case in which ownership policy is less urgent, and in which suppressing the technology to protect wages would be costly.
+The matrix of forms by the six dimensions is the paper's main figure. Counts in that figure use the checked sources already in the intake log, with the year and the population on the number.
 
-For each channel: who is exposed, whether the loss is temporary or persistent, and whether a capital claim targets it.
+### 5. Trade-offs
 
-Uncertainty section, kept short. The size and speed of these channels are not settled. Policy design has to function across a range: mild and slow, moderate, and severe. The paper should refuse to pick a single scenario as "the" future. It can still say which policies dominate in which range.
+Purpose: tensions, not a list of advantages.
 
-### 5. Why the gains accrue to owners
+| Tension | What the form can do | What it costs |
+| --- | --- | --- |
+| Alignment and concentration | People share in the firm's success | Wages and wealth can fall with the same firm |
+| Wealth and liquidity | Balances can compound | Many plans pay at exit, not during a job loss |
+| Voice and speed | Cooperatives and some trusts add a say | Decision costs, and capital that is harder to raise |
+| Addition and substitution | A claim on top of a wage | A plan that replaces pay with a riskier payment |
+| Continuity and debt | A sale to employees can keep a firm intact | Leverage and repurchase obligations take cash |
+| Simplicity and margins | Revenue shares are easy to see | Revenue can rise while the firm loses money |
 
-Purpose: answer the "why ownership" half of the title before discussing programs.
+Also: who inside the firm receives the claim (pay level, tenure, full-time status); who never gets a plan; and the equal-cost comparison — the same resources as higher wages, as a bonus, or as a claim — including a downturn. Report the median and the bad case, not only the average account.
 
-- Returns to automation show up as profits, rents on scarce complements (energy, chips, data, land, spectrum, distribution), and higher valuations. Wages rise only through productivity effects, new tasks, and competition for labor.
-- Those non-wage returns are owned. In current arrangements they are owned disproportionately by existing shareholders, including foreign shareholders, and by homeowners only insofar as the rent is a location rent rather than an AI rent.
-- Concentration means the household that loses the wage and the household that gains the capital return are often not the same household.
-- Timing: equity values can jump before any dividend is paid. Workers do not automatically share the jump.
-- Open economy: domestic workers can be displaced by technology whose owners live elsewhere. A domestic wage subsidy does not capture foreign capital income. A claim on domestic sales, or on assets in the jurisdiction, might. This is a design problem, not a slogan.
+Firms choose among these forms because of size, margins, whether the owner is selling, and whether the workforce is stable. That choice is the business-driven part of the paper.
 
-Boundary: ownership policy does not raise the labor share. It changes who receives the capital share. If the political goal is specifically a higher labor share, the relevant tools are new labor-using tasks, competition, and bargaining. The paper should say this in one clean paragraph so it is not accused of confusing the two goals.
+### 6. Evidence
 
-### 6. Taxonomy of mechanisms
+Purpose: what existing studies can support, and what they cannot.
 
-Purpose: the core original section. Every later policy discussion points back here.
+Permitted, with the limits already written in the intake log:
 
-Organize by **how the claim is capitalized**, because that is what determines incidence. For each family, use the same template:
+- Scale: about 11 million active participants in employee stock ownership plans in 2023 filings, against a U.S. workforce on the order of 160 million. About 15 million participants if former employees still in the plans are counted. Total plan assets are not the same as employer stock.
+- Worker cooperatives: the 2025 census cited by the Department of Labor, not a round number without a year.
+- The 2017 comparison of workers ages 28 to 34: higher median household wealth, wages, and tenure, in dollar levels, and not a causal result.
+- French worker cooperatives: smaller employment cuts in a sales drop, and more flexible pay. State both.
+- Shared capitalism: associations with workplace outcomes are stronger when participation, training, and a real wage are also present.
+- No substitution of company stock for pay in the Buchele, Kruse, Rodgers, and Scharf samples. That finding does not cover every form.
+- Industry and center reports, including the National Center for Employee Ownership, are usable when labeled, and they do not carry causal claims by themselves.
 
-- What the household holds
-- Who is eligible
-- Who pays at capitalization
-- When cash arrives
-- What risk the household bears
-- What happens to investment and firm governance
-- Who is systematically missed
-- What would have to be true for the payment to be material relative to lost wages
-- Closest real precedent, and what that precedent does *not* prove
+The gap to name: almost no study tests these arrangements as insurance against an automation shock. Selection — better firms may be the ones that share ownership — stays in the text.
 
-#### 6.1 Saving out of labor income
+### 7. Why firms do this
 
-Matched savings, auto-enrollment pensions, default contributions, portable retirement accounts. Capitalization comes from the worker's wage or from a public match.
+Purpose: the capitalist case, as a set of motives to evaluate.
 
-Fits moderate, gradual disruption among people who still have earnings. Fails as a primary response to early-career displacement and to people with no wages. A public match is a transfer that happens to be saved; call it that. This is the channel in the 2025 Kennedy School paper. Cite it, then move on.
+- An owner who is leaving can sell to the people who work there instead of to an outside buyer. State the opportunity without an uncounted "millions of firms" figure.
+- Hiring, keeping people, and the quality of decisions, as a package with participation rather than as an effect of a grant alone.
+- Tax results for the seller. Those are policy, and they have a public cost.
+- Barriers: advisers, valuation, lawsuits and fiduciary duty, financing, and thin margins.
 
-#### 6.2 One-time and recurring capital endowments
+### 8. What policymakers can do now
 
-Stakeholder grants at adulthood. Baby bonds, possibly larger for children from low-wealth families. Child Trust Fund-style accounts.
+Purpose: enabling rules. Separate law in force from bills.
 
-The design variables that decide whether the idea is serious: grant size relative to lifetime earnings loss, whether the account is invested in diversified claims, whether it can be spent on contact or only at a certain age, and whether a second generation of unequal saving and inheritance undoes it. A restricted account that pays out at retirement does not mitigate a wage loss at age 40. Say so.
+In force, to be described from the statute when drafted: Section 1042 for certain sales to employee stock ownership plans and qualified worker cooperatives; S-corporation plan tax treatment; deductible contributions; Employee Retirement Income Security Act duties, including valuation; the Department of Labor's Employee Ownership Initiative; a $2 million appropriation in 2026 that is not yet evidence of grants paid; Small Business Administration 7(a) loans only within that program's actual rules.
 
-#### 6.3 Employment-linked ownership
+A bill, not a program: S.2458, the Employee Ownership Financing Act, introduced 24 July 2025.
 
-ESOPs, worker cooperatives, broad-based equity grants, profit sharing, gainsharing.
+For each tax or financing idea, ask whether it creates an additional claim for employees or mainly pays the seller, the lender, or the adviser. Subsidized plans should be watched for replacing wages. Diversification rules should be described for the kind of plan they actually cover.
 
-Strength: can align workers with productivity in firms that continue to employ people, and can raise wealth while the job lasts. Limits: misses the displaced, the unemployed, and workers outside formal firms; concentrates risk in one employer; can trade wages for shares in ways that leave the worker worse off if the firm fails. Useful as a complement inside surviving employment. Not a system for people automation has already pushed out.
+Rank levers by cost, how much new employee ownership they create, whether they can be done under current law, and how strong the evidence is.
 
-#### 6.4 Social wealth funds and citizen dividends
+### 9. Place in the larger system
 
-A public or independent corpus holds diversified assets. Residents or citizens hold equal, often non-transferable, claims. Payouts are dividends, not annual appropriations.
+Purpose: one section, not a second paper.
 
-Capitalization choices, which must be compared rather than blurred:
+- Inside a participating firm, a claim can share that firm's gains, including gains from automation, with the people who still work there.
+- It misses people without that job, people displaced before they vest, firms with nothing to distribute, and cases where the gain is a lower price or is captured by a supplier of the technology.
+- A firm that automates away its own workforce also shrinks its set of owners.
+- Federal, state, and community funds, and a cash floor, are the layers that would have to cover those gaps. This paper names the gaps. It does not design those layers.
+- Design hooks, if the other layers are built later: a rollover into a diversified account, and a statement the person can read. Those are connections, not current programs.
 
-- Resource or land rents already public (Alaska model; Georgist variants)
-- Fiscal surpluses and privatization proceeds (several sovereign funds)
-- Dedicated taxes whose revenue buys assets
-- Borrowing to buy assets (the return has to exceed the cost of funds, which is an empirical question, not a feature)
-- Mandatory issuance by firms (section 6.5)
+### 10. Objections and conclusion
 
-Precedent caution: the Alaska Permanent Fund Dividend shows that a fund can pay an equal cash dividend and that the politics of a visible dividend are durable. It does not show that such a dividend can replace wages. Norway's fund shows that a professional, rule-bound corpus can sit outside day-to-day politics. Norway does not primarily operate as a per-person wage substitute. The Meidner plan shows the political difficulty of gradual union-directed dilution.
+State the limits in the paper's own voice. About 11 million active participants is a small share of the workforce. Much of the value is wealth at exit, not income now. The evidence is selected. Tax breaks can pay for transactions that would have happened anyway. High-profile plan failures belong next to the successes.
 
-#### 6.5 Claims created by issuance or dilution
+Say what would weaken the account: evidence that plans systematically replace wages; evidence that the people who receive claims are only those who were already secure; evidence that, under the paper's own scenarios, the claim rarely becomes spendable when wages fall.
 
-Firms issue equity or equity-like claims to a citizen fund as a condition of operating or of selling in the jurisdiction. Existing owners are diluted.
+The conclusion restates the forms, the trade-offs, what can be done now, and the boundary. It does not predict how far AI will go, and it does not claim this layer is the floor.
 
-This is the cleanest way to track the capital share as it grows, and it does not require defining a "robot." It is also a tax on current owners of covered firms. The paper analyzes it as a tax: capitalization, avoidance (private firms, debt, jurisdiction shopping), effects on entry and investment, and the legal difference between prospective rules and a taking of existing property. Any claim that dilution is not a cost gets cut in revision.
+### Appendices
 
-#### 6.6 Public or communal ownership of bottleneck assets
-
-Land value, spectrum, energy and grid infrastructure, publicly funded compute, equity stakes taken when the public subsidizes a firm, data held as a civic asset.
-
-Strength: these assets throw off rents that AI is likely to increase demand for, and the public often already has a legal handle on them. Limits: public ownership can politicize investment; operating frontier technology inside government raises capability and security problems; a stake taken after giving a subsidy is a price for the subsidy, not a free dividend. The paper separates passive financial claims from operational control. Passive claims are the policy under discussion unless a section gives a reason to operate the asset.
-
-#### 6.7 New instruments: data dividends, robot trusts, automation taxes paid as shares
-
-Proposals that try to assign the specific rents of AI.
-
-The measurement problem is the section's center. Firms can relabel automation gains as ordinary process improvement. A tax base that depends on that label will be gamed. Broader bases (equity issuance, excess profits, land, energy, consumption) are less precise and more administrable. The paper should prefer administrable bases unless a precise base can be defined in law.
-
-#### 6.8 Using tax revenue to buy claims rather than to pay transfers
-
-A capital tax, excess-profits tax, or consumption tax whose proceeds accumulate in household accounts instead of funding a UBI.
-
-This makes the comparison with UBI sharp, because the funding side can be held fixed and only the use of funds changes: consume now, or buy a claim. The right answer can differ by household liquidity and by the return on the claim. This subsection is the bridge into section 8.
-
-#### 6.9 Summary matrix
-
-Rows are the eight families. Columns:
-
-- Eligible population
-- Payer at capitalization
-- Cash timing
-- Liquidity
-- Risk
-- Inclusion of non-workers
-- Reconcentration risk
-- Administrative difficulty
-- Fit to persistent factor-share shift
-- Fit to a temporary job loss
-
-The matrix is a classification, not a ranking. Rankings wait for the comparison section and must be conditional on the scenario.
-
-### 7. When ownership income moves a person to a better position
-
-Purpose: make "better place" precise enough for an economist and concrete enough for a general reader.
-
-Outcomes, each with the evidence standard the paper will accept:
-
-1. **Level of spendable income** over a stated horizon. The standard is arithmetic from the identities plus distributional data, then scenarios. Not testimonials.
-2. **Downside risk.** A diversified claim reduces dependence on one wage. It adds capital-market risk. Net risk is an empirical question by household.
-3. **Wealth and resilience.** Collateral, ability to move, ability to absorb a medical or housing shock. A locked claim that cannot be borrowed against does less of this.
-4. **Outside option and bargaining.** An unconditional claim can raise the wage a person will accept. A claim that disappears when they leave the firm does the opposite. This effect is second-order and should be labeled as such.
-5. **Ability to retrain or change occupation.** Requires liquidity at the moment of disruption. Ownership policies with long lockups fail this outcome unless paired with cash.
-6. **Inclusion of people without a wage.** Caregivers, disabled people, young adults, and retirees gain from citizen-level claims and gain little from employee ownership or wage-based saving.
-7. **Stake in productivity.** A political-economy outcome: beneficiaries of capital income have a reason to favor growth. Also a risk: they may oppose policies that reduce asset values, including housing supply and competition. Record both.
-
-Household types the illustration must walk through, using the same shock:
-
-- Mid-career worker in an exposed occupation, little financial wealth, some home equity
-- Younger adult who never gets the wage path that older cohorts had
-- Self-employed person with thin unemployment coverage
-- Person with no labor income (caregiver, disabled adult)
-- Household that already holds retirement equity and housing
-- Existing concentrated owner, who finances dilution or capital taxation
-
-"Better" is allowed to be true for one type and false for another. The paper's usefulness depends on that split.
-
-Horizon split, to be kept visible:
-
-- **Next year.** Almost no capitalized ownership policy replaces a paycheck unless a dividend is already flowing or the person can borrow against the claim.
-- **Working life.** Endowments and funds can become material if the corpus is large. "Large" has to be shown in currency units against lost earnings.
-- **Retirement.** Pensions and baby bonds aimed at late-life payouts belong here, and should not be described as answers to mid-career displacement.
-
-### 8. Comparison with UBI and the neighboring policy set
-
-Purpose: stop the paper from arguing against a cartoon. Compare functions at equal cost.
-
-#### 8.1 UBI as the primary comparator
-
-Define the UBI under discussion: unconditional, individual, periodic cash, financed by a named tax. State the level as a range and carry the fiscal cost in the open. A UBI large enough to replace a median wage is a different policy from a UBI that fills a poverty gap. Compare like with like.
-
-Dimensions:
-
-| Dimension | What the section has to establish |
-| --- | --- |
-| Problem each one solves | Floor and liquidity versus a claim on future capital income |
-| Timing | Transfer can start when legislated. Ownership income waits on capitalization and accumulation. |
-| Cyclicality | A legislated cash floor can be paid in a downturn if the state borrows. Capital income falls when profits fall. A dividend that is cut in recessions fails the consumption-smoothing test. |
-| Fiscal path | UBI is a recurring obligation. A fund is a recurring obligation only after someone has paid to build it. Show the build phase explicitly. |
-| Labor supply | Income effects exist for both. Substitution effects are large when benefits phase out with earnings. A flat UBI and an unconditional dividend both avoid a phase-out. Do not claim ownership is uniquely work-friendly. |
-| Investment and incidence | Depends on the tax or dilution used to fund either policy. A badly designed base can fund either one and damage capital formation either way. |
-| Wealth | Ownership leaves an asset. UBI leaves an asset only if recipients save. Evidence on saving out of transfers should be cited, not assumed. |
-| Risk to the recipient | Cash floor is stable and worth little if the level is low. Equity has upside and drawdowns. |
-| Inclusion | Both can be universal. Employee ownership and wage-saving cannot. |
-| Politics | Visible dividends develop constituencies. So do cash transfers. Property-like claims can be harder to repeal and harder to retarget. |
-| Macroeconomic leakage | Cash transfers raise current demand. Buying existing securities changes who owns them and need not raise current demand one for one. |
-
-Equal-cost exercise, to be specified before any numbers are chosen:
-
-- Fix a present-value budget.
-- Option A pays it as UBI over the horizon.
-- Option B uses it to buy a diversified claim and pays the return, with a stated payout rule.
-- Compare spendable income at year 1, year 10, and over the life cycle for the household types in section 7.
-- State the return assumption and show a low-return case. If the honest low-return case makes Option B worse for displaced workers, the paper says that.
-
-#### 8.2 Policies that sit between or beside the two
-
-Give each a short placement, not a full chapter.
-
-- **Unemployment insurance and wage insurance.** Better match for temporary displacement and occupational switching. They expire. They do not rebalance factor shares.
-- **Earnings subsidies (for example an expanded earned-income credit).** Support people who remain employed at low wages. They do not reach people with no earnings, and they do not assign capital claims.
-- **Universal basic services.** Reduce the cash a household must earn. They are a floor in kind. They do not share capital gains.
-- **Retraining and worker-complementary technology.** Aim to rebuild the wage channel and the reinstatement of tasks. Complements to ownership. Substitutes only if they succeed at scale.
-- **Job guarantee.** Guarantees a wage by creating a payer of last resort. Different goal: maintain labor income rather than replace it with capital income.
-- **Capital or wealth taxation paid out currently.** Redistribution without a household asset. Compare directly with section 6.8.
-- **Competition policy and labor-market institutions.** Change rents and bargaining. Can raise wages without assigning ownership. Limited if the task really can be done more cheaply by capital.
-
-#### 8.3 A division of labor, not a winner
-
-The section's likely landing point, kept as a hypothesis until the equal-cost exercise is done:
-
-- An income floor covers liquidity, poverty, and the transition.
-- Citizen-level ownership covers persistent shifts in the capital share, including for people who never had the wage.
-- Employment-linked ownership covers workers inside firms that remain labor-using.
-- Wage insurance and retraining cover occupational moves.
-- None of these restores a specific lost job.
-
-If the exercise later shows that, at realistic fund sizes, ownership dividends are too small to matter for mid-career wage loss, the paper's recommendation narrows to wealth-building and long-run share rebalancing, and it stops calling ownership a wage replacement. That is an acceptable conclusion.
-
-### 9. Design rules
-
-Purpose: convert the taxonomy into conditions a serious proposal has to meet. The target those rules are applied to is the author's five-layer architecture: federal, state, and community funds, employee ownership, and a universal basic income, delivered as cash, credits, and subsidies, with necessities paid automatically. Rules are standards for later drafting, not yet a statute.
-
-1. **Name the payer.** Every proposal identifies who gives up the claim or the tax payment.
-2. **Match the payout to the shock.** Mid-career wage loss needs cash inside a few years or an explicit bridge. Retirement lockups are a different product.
-3. **Diversify.** Employer stock is not a household's only claim.
-4. **Include people without wages** if the stated goal is society-wide mitigation rather than employee compensation.
-5. **Prefer bases that cannot be relabeled.** Equity, land, energy, and consumption are harder to redefine than "robots" or "automation profits."
-6. **Separate passive claims from political control of firms.** Governance rules are part of the policy.
-7. **State a rule for recessions.** A dividend that collapses when payrolls collapse is not insurance.
-8. **Plan for reconcentration.** Inheritance, distress sales, and unequal voluntary saving will rebuild concentration unless the design refreshes claims or restricts alienation. Restrictions have their own costs: illiquidity and a weaker wealth effect.
-9. **Publish a scale test.** Report the dividend or account balance next to median and lower-quartile earnings under at least two labor-share scenarios.
-10. **Keep the floor distinct.** Do not fund the income floor by raiding the corpus in ordinary years. Do specify the emergency rule.
-
-### 10. Objections the paper must answer in the text
-
-Write these as the referee would.
-
-1. **Relabeling.** "This is a wealth transfer with extra steps." Response standard: show what is different about risk, timing, wealth, and incentives. Where nothing differs, accept the objection.
-2. **Scale.** Realistic corpora pay modest dividends. Response standard: do the arithmetic. Modest dividends can still matter for poverty and for long-run wealth without amounting to a wage replacement.
-3. **Incidence on investment.** Dilution and capital taxes can reduce accumulation, which reduces the future wage and the future return. Response standard: discuss openness of the economy and the elasticity literature without inventing a point elasticity.
-4. **r falls as capital deepens.** If AI raises the capital stock a great deal, returns per unit of capital can fall. Ownership of a larger stock at a lower return is not automatically a large income. The illustration needs a low-return case.
-5. **Liquidity.** Poor households are poor in cash. An illiquid share does not buy groceries. Response standard: payout rules and borrowing, or an explicit complementary floor.
-6. **Volatility and cyclicality.** Capital income moves with profits. A mitigation that fails in the same states as wage loss is incomplete insurance.
-7. **Exclusion and predacity.** Financial accounts can be fee-stripped, or can skip people outside the banking system. Administration is part of the benefit.
-8. **Reconcentration.** Gifts, debt, and differential saving. One generation of grants does not lock in a distribution.
-9. **Political control and soft budget constraints.** Governments that own large equity stakes face pressure to protect favored firms. Institutional design (mandate, independence, passive benchmark) is the response, and it can fail.
-10. **Open-economy leakage and avoidance.** Private firms, pass-throughs, debt, and location of intellectual property.
-11. **Taking and transition.** Prospective rules and surprise dilution are different in law and in fairness to current savers, including pensioners who already own the market.
-12. **Status and work.** Some readers treat wage income as social participation and ownership income as rent. The paper can report the argument. It should not pretend it is an empirical result. The relevant empirical question is labor supply and wellbeing under unconditional income, which is contested and should be cited as contested.
-13. **Housing confusion.** Raising home values is not the same as sharing AI capital income, and higher home values exclude non-owners.
-14. **Global inequality.** A rich-country citizen fund can raise domestic inclusion while the underlying capital income depends on production and data from elsewhere. The paper flags this as a limit of a national design.
-
-### 11. Evidence plan
-
-Purpose: decide what kinds of support the paper will use, so later threads do not fill the draft with uncited numbers.
-
-Permitted evidence:
-
-- Published labor-share and wealth-distribution statistics, with sources, years, and definitions.
-- A transparent arithmetic illustration built from those statistics.
-- Evaluations of existing institutions: ESOPs and shared capitalism, the Alaska dividend, the UK Child Trust Fund, sovereign-fund governance, baby-bond proposals. Each used for the lesson its design can support.
-- UBI and negative-income-tax evidence for labor supply and consumption, with external validity stated.
-- Public-finance results on the incidence of capital taxes, cited at the level of the literature's range.
-
-Not permitted:
-
-- A single model's unemployment forecast presented as a probability.
-- Simulated welfare rankings that are not accompanied by their assumptions.
-- Quotations from other language models.
-- Advocacy numbers with no primary source.
-
-If a formal model is added later, it earns a place only if it answers a question the accounting framework cannot: for example, endogenous investment under dilution versus under a cash tax. Otherwise the model is a detour.
-
-Methods paragraph the introduction can point to: "The paper is analytical and comparative. It uses an income identity, a classification of mechanisms, distributional arithmetic, and institutional evidence. It does not estimate a new causal effect of AI on wages."
-
-### 12. Implications
-
-Write this section after sections 3 through 8 exist. Implications stay conditional.
-
-Likely shape, to be confirmed:
-
-- For persistent factor-share shifts, citizen-level claims dominate employee-only claims on inclusion, and they dominate a pure transfer on wealth and on tracking future capital income.
-- For the years immediately after displacement, a floor or insurance dominates ownership.
-- The policies stack. They do not substitute one for one.
-- The first design choice is the capitalization base, not the branding of the dividend.
-- Proposals that cannot pass the scale test should be described as wealth-building policies, not as wage-disruption policies.
-
-No model statute in the main text. If a concrete design is worth showing, put one illustrative design in an appendix and label it illustrative.
-
-### 13. Conclusion
-
-Restate the three conditions. Restate the division of labor between floor, ownership, and wage-channel policies. State the strongest limitation in the conclusion itself, not only in a footnote: scale and delay. End on what a reader can check — the identity, the taxonomy, the equal-cost comparison — rather than on a prediction about AI.
-
-### Appendix plan
-
-- A. Notation and the income identity
-- B. Data sources and the arithmetic exhibit
-- C. Mechanism matrix in full
-- D. Equal-cost comparison assumptions
-- E. One illustrative fund design, clearly marked as an illustration
-- F. Precedent notes: Alaska, Norway, Meidner, ESOP evidence, Child Trust Fund, stakeholder-grant and baby-bond proposals
+- A. The forms-by-dimensions matrix
+- B. Evidence notes with year, population, and whether the result is causal
+- C. Policy inventory: in force, appropriated but not yet granted, and introduced bills
+- D. Household illustrations, labeled as illustrations, including a job loss and a firm failure
+- E. One failure case beside the successes
+- F. Glossary
 
 ---
 
@@ -5052,3 +4865,260 @@ Discard:
 #### Raw reply
 
 The pasted outline is preserved in the conversation of 2026-10-20. It keeps the firm as the unit of analysis, separates ownership from contractual sharing, requires an equal-cost comparison with wages, and limits the larger architecture to a short division of functions. The tax-code meaning of "profit-sharing plan," the limits of SBA 7(a), and the unnamed second study on wage substitution are the items that must not be blurred in drafting.
+
+### Thread 27 — 2026-10-21 — ChatGPT, on the draft baseline
+
+Source: Pasted by the user in this session. No new studies and no new figures.
+Prompt given to the model: The draft baseline for the employee-ownership paper.
+Section tags: Paper structure; evidence limits; three scenarios. Endorses the baseline and adds drafting rules. Those rules are now in `employee-ownership-draft-baseline.md`. The three firm-level scenarios replace the earlier labor-market trio in the outline's section 3.
+Conflicts with this paper's scope:
+
+- None. The reply refuses to treat employee ownership as wage replacement, as automation insurance, or as a universal remedy. That is the baseline.
+
+Numbers or citations to verify before use:
+
+- No new numbers. The reply is a list of bounds on numbers already in the log. Those bounds are adopted: the 11 million comparison is approximate; plan assets and employer stock stay separate; “paid at exit” is limited to employee stock ownership plans whose rules pay at separation or retirement; the appropriation, the state count, and S.2458 stay distinguished as authorization, appropriation, implementation, and delivery; wealth or performance evidence is not evidence that the plans insure workers against AI wage loss.
+
+Keep:
+
+- The five rules: separate ownership from compensation; follow the money to the employee; test an equal-resource counterfactual; treat adoption and coverage as different problems; treat policy as help with a price.
+- The three scenarios: the firm keeps the gain; competition gives the gain to customers as a lower price; the firm is disrupted and wages and the claim fall together.
+
+Discard:
+
+- Nothing in the reply is a finding. It is scope control for the draft.
+
+#### Raw reply
+
+The pasted note is preserved in the conversation of 2026-10-21. It adopts the baseline as the scope-control document, states the governing thesis in the form already used, lists the five rules and three scenarios above, and requires primary-source confirmation before any figure is treated as final.
+
+### Thread 28 — 2026-10-21 — DeepSeek, on the draft baseline
+
+Source: Pasted by the user in this session. It corrects figures that reply had used earlier. No new primary sources.
+Prompt given to the model: The draft baseline.
+Section tags: Thesis; forms rubric; policy limits; methods. The covariance sentence is adopted as the paper’s hypothesis. The elevation of the Makridis simulation to the paper’s only quantitative anchor is not.
+Conflicts with the baseline:
+
+- “Raises the level and durability” is a hypothesis, not a result. The adopted sentence is: a claim can raise what a worker holds in the firm; it is not insurance, because the return moves with that worker’s wage.
+- “Survival” in thread 19 meant whether the firm can finance the arrangement in a bad year. This reply redefines it as whether the structure is sold out across generations. Both questions are in the rubric. They are not the same question.
+- A ranking of forms by how tightly the return moves with wages is a proposition to test. It is not a finding. Cash profit sharing may be cut first; equity falls with the firm; cooperative pay can flex while jobs are stickier; trust payouts depend on the document.
+- The Makridis scenario stays a conditional illustration. The scale anchors are the checked participant and employer-stock figures. The simulation is not the paper’s quantitative anchor.
+
+Numbers or citations to verify before use:
+
+- No new figures. The correction table matches the log: $398 billion of employer stock, not $2.06 trillion of plan assets; no $180,292 average; no $121,000 as typical wealth; the UK 8–12 percent estimate is not causal; the $2 million is an appropriation, not grants paid; S.2458 is a bill. The SHARE Plan Act, a Husted–Daines–Hassan bill, and Colorado and Rhode Island credits are not in the baseline. They stay out until checked.
+
+Keep:
+
+- One rubric, used in every form section: addition, access, usability, business survival, persistence, coverage, covariance, voice, and leakage. Usability and covariance are the columns that speak to a mid-career wage loss.
+- Source rules: sector material is not independent causal evidence; every claim names its population; no mean without its subset; correlations are labeled, including favorable ones; bills are “introduced”; appropriations are not disbursements; a missing median is not replaced with a mean.
+- The $12,000 illustration is labeled a stress test in the text, in those words.
+
+Discard:
+
+- The offer to draft the introduction and the forms section in that chat.
+
+#### Raw reply
+
+The pasted note is preserved in the conversation of 2026-10-21. It restates the baseline as voice, defensible numbers, and the honesty sentence, proposes the level-not-insurance thesis, collapses earlier question lists into one rubric, and limits the policy chapter to checked items. The covariance hypothesis and the rubric are in the baseline. The Makridis simulation is not promoted to the paper’s anchor.
+
+### Thread 29 — 2026-10-21 — Gemini, on the draft baseline
+
+Source: Pasted by the user in this session. No new studies.
+Prompt given to the model: The draft baseline.
+Section tags: Forms; covariance; policy. Uses the checked scale figures, then slides back into advocacy and into treating the appropriation as operating support.
+Conflicts with the baseline:
+
+- “Cognitive automation directly substitutes” across high-skill and low-skill work, and “capital gains systematically outpace wage growth,” are forecasts the paper does not make.
+- “Advocates for pre-distribution” is a stance. The paper investigates arrangements. It does not open as a brief.
+- The table treats employee ownership trusts as a recurring cash yield and cooperatives as highly effective at local wealth retention. Trust payouts depend on the document. Cooperative wealth effects are not established that way.
+- “The $2 million appropriation helps fund state centers” treats an appropriation as disbursed support. Thread 18’s limit still governs.
+- “Wealth accumulation floor” mixes the wealth layer with the floor. This layer is not the floor.
+- The author note adds “high-stakes strategy” and “systemic risk” beyond the bio the author wrote. Use the author’s bio and disclosure, not this paraphrase.
+
+Numbers or citations to verify before use:
+
+- The 11 million and $398 billion figures match the log if “active participants” and “employer stock” stay attached. “Total ESOP plan assets exceed $2 trillion” is acceptable only beside the employer-stock figure. No other new number is cleared.
+
+Keep:
+
+- The three-way score of ownership, income rights, and voice, already in the baseline.
+- The double-basket statement of covariance, the price-already-in-the-shares point, and the lower-price point. Already in the baseline.
+- Policy as valuation clarity, tax treatment, and state technical help, with the appropriation described as appropriated.
+
+Discard:
+
+- The title. Park it.
+- The ASCII diagrams.
+- The offer to add deal-structure models or equations.
+
+#### Raw reply
+
+The pasted outline is preserved in the conversation of 2026-10-21. It is a five-section sketch under the title “Pre-Distribution by Design,” with an author box, a four-row mechanism table, a covariance section, and a policy stack. The checked scale sentences can be used with their limits. The advocacy opening, the trust and cooperative ratings, and the treatment of the $2 million as funds already helping centers are not adopted.
+
+### Thread 30 — 2026-10-21 — Z.ai, on the draft baseline
+
+Source: Pasted by the user in this session. It says a brief was saved on that model’s machine. That file is not in this repository.
+Prompt given to the model: The draft baseline.
+Section tags: Forms; evidence; policy. Restates the baseline’s discipline, then puts several rejected counts and the wrong failure cases back into the outline.
+Conflicts with the baseline:
+
+- Worker cooperatives are not “about 600.” Use the 2025 census figures already logged.
+- “About 2.3 million firms” owned by people 55 or older, and “about 10,000 boomers turning 65 a day,” are not established counts. The succession point can be made without them.
+- “About 36 percent” in nontraditional work is not established. The coverage point is the 11 million active participants, with the workforce definition still to be paired.
+- Kruse, Freeman, and Blasi (2010) is not cited here as a meta-analysis that found a 4 to 5 percent productivity gain. Cite a chapter or a study, or omit the coefficient.
+- Chile’s pension privatization and Sweden’s wage-earner funds are not employee-ownership failures. A failure case in this paper is a failed employee-ownership transaction or plan. Do not use those two as that case.
+- Internal Revenue Code section 133, the old lender interest exclusion, is not current law. Do not list it beside section 1042 as if it were.
+- CHIPS Act employee-ownership provisions, S.2515, S.1727, and a National Worker Cooperative Development Act are not verified. They stay out.
+- A “worker-owned AI royalty” paper (Sriraman and others, 2017) and a 2018 University of Chicago Legal Forum tax-vehicle critique were not opened. Do not cite them until the documents are in hand.
+- The San Francisco disaster-planning job is biography. It is not a method for the income architecture, and it is not added to the argument.
+
+Numbers or citations to verify before use:
+
+- Sections 401(a), 1042, and 4975(e)(7) are real ESOP provisions. Section 409A and the rules for employee stock purchase plans are real and plan-specific. Describe them from the statute when drafted. Do not treat a list of section numbers as the analysis.
+- The $398 billion, 11 million, $2 million appropriation, eight-or-nine state count, S.2458 date, and $12,000 stress test are already bounded in the baseline. This reply uses them in that bounded way. Keep the bounds.
+
+Keep:
+
+- Three buckets, three rights, three questions, and the equal-resource comparison. Already in the baseline.
+- Owners at founding and at sale; government builds the road. Already in the baseline.
+- The price-already-in-the-shares point inside the equity-compensation discussion. Already in the baseline.
+- The author’s interest stated as an invitation to challenge the paper, which matches the disclosure. The disclosure text the author wrote is the one the introduction uses.
+
+Discard:
+
+- The title and the “practitioner-scholar” subtitle. Park them.
+- The offer to write a .docx from an operating brief that is not in this repository.
+
+#### Raw reply
+
+The pasted outline is preserved in the conversation of 2026-10-21. It restates the baseline as a shorter nine-section outline and then reinserts the 600-cooperative count, the unverified succession and gig figures, the 4–5 percent productivity coefficient, Chile and Meidner as the failure cases, and several unverified bills. Those do not enter the draft. The rubric, the checked scale sentences, and the stress-test label do.
+
+### Thread 31 — 2026-10-21 — Mistral, on the draft baseline
+
+Source: Pasted by the user in this session. Bill numbers were checked against Congress.gov and a Senate HELP press release.
+Prompt given to the model: The intake log and the drafting baseline.
+Section tags: Policy facts; covariance. The bill correction is adopted. The claim that S.2458 and S.2461 are what the Senate passed in October 2025 is not.
+Conflicts with the baseline:
+
+- S.2458 and S.2461 were both introduced on 24 July 2025. Neither has moved past referral. They are not the October 2025 Senate passage.
+- “The hedge survives for economy-wide automation gains” is true only if the worker’s own firm captures those gains. Own-firm failure is still correlated exposure. Designing that risk away with diversification is a design question, not a feature of current private-company plans during working years.
+- The restated outline earlier in the reply still says employee ownership is the most direct mitigation and that the hedge strengthens as disruption deepens. Those sentences fight the covariance point. The constraints box at the end is the part that matches the baseline. The earlier outline is not re-adopted.
+- The knowledge-file link is not this repository.
+
+Numbers or citations to verify before use:
+
+- **Checked — S.2461, Promotion and Expansion of Private Employee Ownership Act of 2025.** Introduced in the Senate on 24 July 2025 and referred to the Committee on Finance. It would amend the Internal Revenue Code and the Small Business Act to expand employee stock ownership plans in S corporations. It is not law. Cite it for tax and S-corporation claims. Do not cite it for the Labor Department loan office. That subject is S.2458.
+- **Checked — Senate passage on 10 October 2025, different bills.** The Senate passed S.1728, the Employee Ownership Representation Act of 2025, and S.2403, the Retire Through Ownership Act, after the HELP Committee reported them in July 2025. They went to the House. Senate passage is not enactment. The National Center for Employee Ownership blog is not required to establish the Senate’s own press release.
+- The $398 billion employer-stock figure remains the NCEO table already in this log: $397,901 million of employer securities in plan year 2023. A reader who cannot see that table has not disproved it.
+
+Keep:
+
+- Cite S.2458 and S.2461 for different claims, and say “bill.”
+- Say in the paper that a stake in the employing firm is correlated exposure to that firm, and that this is why a diversified floor would be a different layer. Do not let that layer take over the draft.
+
+Discard:
+
+- The offer to draft the introduction in that chat.
+- The older outline repeated above the constraints box.
+
+#### Raw reply
+
+The pasted note is preserved in the conversation of 2026-10-21. It confirms S.2458 and S.2461 as 24 July 2025 introductions, misattributes the 10 October 2025 Senate passage to those two bills, and restates the covariance limit as the reason the other layers stay in the conclusion only. The bill facts, corrected as above, are in the baseline. The repeated outline is not.
+
+### Thread 32 — 2026-10-21 — Claude, on the draft baseline
+
+Source: Pasted by the user in this session. It rechecked S.2458 and the asset split and could not see the employer-stock total.
+Prompt given to the model: The draft baseline.
+Section tags: Evidence limits; disclosure. The public-versus-private asset split is adopted. The disclosure is not rewritten.
+Conflicts with the baseline:
+
+- None on scope. The reply adopts the baseline and asks for tighter sentences.
+- The $398 billion employer-stock figure is in the National Center for Employee Ownership table for plan year 2023: employer securities of $397,901 million, of which private-company plans hold $239,223 million and public-company plans $158,678 million. Total assets are $2,056,514 million, of which $1,693,119 million is in public-company plans (about 82 percent) and $363,395 million is in private-company plans. Claude’s sources did not include that table. The figure stays, with that citation. The paper’s subject, founder-led sales into employee ownership, sits in the private-company figures, not in the headline total.
+- “Who captures the upside at a trustee-set price” is a question for the author, not a fact about Forhemit. The disclosure the author wrote does not state a spread between a price paid to a founder and a price paid by a plan. If such a spread exists in the author’s transactions, the disclosure needs its own sentence. If it does not, the paper should be able to say so. The question is open. The disclosure is not amended on a guess.
+- Industry sources stay labeled. That rule is already in the baseline.
+
+Numbers or citations to verify before use:
+
+- No new study. Participation stays “11.0 million active” when that is what is meant, and “15.1 million participants” when former employees still in the plans are included. Do not switch definitions mid-paragraph.
+
+Keep:
+
+- For a leveraged purchase at fair market value, employees pay for gains the valuation already included. Later gains have to clear that price, and debt service can consume them. That sentence is now in the baseline, next to the covariance point.
+- State the public-company share of headline assets when the $2.06 trillion figure appears.
+
+Discard:
+
+- A revised disclosure written before the author answers the pricing question.
+- The offer to rebuild the outline in that chat.
+
+#### Raw reply
+
+The pasted note is preserved in the conversation of 2026-10-21. It confirms S.2458, accepts the asset-versus-stock distinction without retrieving $398 billion, and asks whether the price Forhemit pays a founder equals the price the employee stock ownership plan pays. The asset split and the fair-market-value sentence are in the baseline. The disclosure is unchanged until the author answers.
+
+### Thread 33 — 2026-10-21 — Claude Opus, on the draft baseline
+
+Source: Pasted by the user in this session. Two of its fact checks were opened against Rutgers’ April 2024 brief, Congress.gov, and the explanatory statement for H.R. 7148.
+Prompt given to the model: The draft baseline.
+Section tags: Evidence limits; methods. The two 11-million counts, the appropriations wording, H.R. 3105, the public-company share of assets, and the call for a sentence of favorable evidence are adopted. The $398 billion figure is not withdrawn.
+Conflicts with the baseline:
+
+- None on scope. The reply wants the baseline to state modest favorable evidence beside the limits. That sentence is now in the baseline, with the studies still to be opened before any coefficient is quoted.
+- “Over $2.1 trillion” is slightly high. The NCEO total is $2,056,514 million: over $2 trillion, under $2.1 trillion.
+- The active-participant count of 11.0 million is not the equity-compensation count. Both exist. The baseline now says which table each comes from. The active ESOP figure stays, because it is the active-participant column of the plan-year 2023 filing table, not a fact-sheet mix-up.
+- The $398 billion employer-stock figure remains $397,901 million in that same table. It is not withdrawn because this check could not see the table.
+
+Numbers or citations to verify before use:
+
+- **Checked — two 11-million figures.** Blasi and Kruse, April 2024, using data through about 2021: about 10.7 million active employees in employee stock ownership plans, and an estimated 11 million employees in restricted stock, options, and purchase plans. National Center for Employee Ownership, plan year 2023: 10,999,997 active participants in employee stock ownership plans, and 15,105,304 participants including people who have left. Cite the table when saying “11 million active.”
+- **Checked — the $2 million.** Explanatory statement on H.R. 7148, Consolidated Appropriations Act, 2026, Public Law 119-75, signed 3 February 2026. Within the Dislocated Worker National Reserve Demonstration Authority, the statement provides $2,000,000 for Employee Ownership Initiative grants as described in Senate Report 119-55. It is an allocation instruction inside a training account. It is not evidence of grants paid.
+- **Checked — H.R. 3105.** Introduced in the House on 30 April 2025 by Representative Kelly of Pennsylvania. Same title as S.2461. Referred to Ways and Means, Small Business, and Education and Workforce. Not law.
+- **Not opened this pass, so not quoted:** O’Boyle and coauthors on firm performance; Kurtulus and Kruse on recessions; Aran (2026) on firms’ reasons to offer equity; Zimmer (2026) on ownership and technology choice; Nimier-David, Sraer, and Thesmar on mandatory French profit sharing. They are leads. They are not findings.
+
+Keep:
+
+- Show both coverage definitions so the paper cannot be accused of picking the smaller or the larger number.
+- Say which evidence is about minority stakes and which, if any, is about 100 percent employee ownership.
+- Model replies are not citations. The paper discloses language-model assistance in the research design.
+- A claim-source ledger is the right method note before prose. It is not started in this entry.
+
+Discard:
+
+- Dropping the active-participant figure because a second 11 million exists. The fix is to name the table.
+- The offer to build the ledger and draft the definitions section in that chat.
+
+#### Raw reply
+
+The pasted note is preserved in the conversation of 2026-10-21. It separates the two 11-million statistics, relocates the $2 million into the explanatory statement for H.R. 7148, adds H.R. 3105 as an introduced House bill, asks for a sentence of favorable evidence beside the limits, and lists literature leads that are not yet sources. Those corrections are in the baseline. The $398 billion employer-stock figure stays, with the filing table named.
+
+### Thread 34 — 2026-10-21 — Gemini, draft of definitions and the forms matrix
+
+Source: Pasted by the user in this session. It drafts sections from the baseline. No new primary sources.
+Prompt given to the model: The draft baseline.
+Section tags: Definitions; forms. The buckets and the three-way score match the baseline. The plan count and several matrix cells do not.
+Conflicts with the baseline:
+
+- “6,525 plans” is not the filing count. The count is 6,609 plans at 6,411 companies.
+- “Zero current income” for every employee stock ownership plan is too absolute. The typical pattern is a distribution at separation or retirement. Some plans pay earlier. Say “often,” and name the plan rule.
+- Scoring cooperatives as structurally robust for current income, and revenue sharing as low vulnerability because it is paid on the top line, states results the rubric is supposed to test. Revenue sharing can pay when the firm is losing money, which is a cost to the firm, not a proof of safety for the worker.
+- “Completely inoculated against naive optimism” is a boast. The paper is not inoculated. The limits are why the conclusion stays conditional.
+- The matrix can be a blank scoring sheet. It is not a completed scorecard.
+
+Numbers or citations to verify before use:
+
+- The 11 million active, $2.06 trillion, and $398 billion sentences match the baseline only if “active,” “total plan assets,” and “employer stock” stay attached. The plan count in this reply does not match.
+
+Keep:
+
+- The three-way comparison of the same resources as wages, as performance pay, or as a claim, with the median and the downside. Already in the baseline.
+- The covariance paragraph, the price-already-in-the-shares point, the lower-price point, and the insurance gap. Already in the baseline.
+- Phantom stock as a contract. Already in the baseline.
+
+Discard:
+
+- The completed High/Low matrix.
+- The offer to draft the evidence and policy sections from this scorecard.
+
+#### Raw reply
+
+The pasted sections are preserved in the conversation of 2026-10-21. They draft definitions and a six-row scoring table from the baseline. The category boundaries can be used. The filled-in scores, the 6,525 plan count, and the claim that the paper is inoculated cannot.
